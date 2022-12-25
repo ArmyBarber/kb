@@ -1,0 +1,5 @@
+[# World’s Key Workers Threaten to Hit Economy Where It Will Hurt](https://www.bloomberg.com/news/articles/2022-07-24/world-s-key-workers-threaten-to-hit-economy-where-it-will-hurt)
+
+> A surge in strikes and other labor protests is threatening industries all over the world, and especially the ones that involve moving goods, people and energy around. From railway and port workers in the US to natural-gas fields in Australia and truck drivers in Peru, employees are demanding a better deal as inflation eats into their wages.
+> 
+> Precisely because their work is so crucial to the world economy right now –- with supply chains still fragile and job markets tight –- those workers have leverage at the bargaining table. Any disruptions caused by labor disputes could add to the shortages and soaring prices that threaten to trigger recessions.

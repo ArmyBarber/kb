@@ -1,0 +1,3 @@
+"The pursuit of a greater ethical good was also the justification behind Mao’s communist transformation in China in the 1950s. Tens of millions of people starved to death in the man-made famine of the Great Leap Forward, but such a tragedy was considered necessary to achieve a more economically equal society and future poverty reduction. Can one rationally argue that this mass murder was wrong? Doesn’t China’s global dominance and the current population of one billion justify it? Why do such ends not justify the means?"
+
+Are actions not governed by intentions? Mass death was not a goal but a side effect. The conditions creating that effect? Ignored

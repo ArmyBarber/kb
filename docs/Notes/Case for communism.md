@@ -1,0 +1,1 @@
+Involves a combination of [[Refuting anticommunist propaganda]] and [[Exposing the reality of capitalism]]

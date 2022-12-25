@@ -1,0 +1,11 @@
+- As asset, completely speculative, unstable, many scams
+- No assurances from centralization to protect users
+- As ledger, git already does same thing
+	- Both are merkle trees
+- No compelling uses for blockchain
+	- Other new "web technologies" relatively straightforward to see potential of
+	- Improvements in tech unlikely to improve features
+- Little to show far
+	- Despite over 10 years, only use seems to be as speculative asset
+- Harmful consequences
+	- Power use/environmental damage
