@@ -1,11 +1,9 @@
-# Obsidian Notes
+# Welcome!
 
-Publish your public notes with MkDocs
+Random notes/thoughts from ArmyBarber
 
-## Hello World!
+## What to expect
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Hopefully making a nice collection of thoughts/sources that can then be built into writings of my own
+  
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
