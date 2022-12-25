@@ -31,6 +31,11 @@ markdown_extensions:
   # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
+  - pymdownx.pathconverter:
+      base_path: 'kb' # default: ''
+      relative_path: '' # default ''
+      absolute: true # default: false
+      tags: 'a script img link object embed'
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
