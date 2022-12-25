@@ -1,0 +1,1 @@
+A place to jot down ideas, and hopefully build into something bigger
