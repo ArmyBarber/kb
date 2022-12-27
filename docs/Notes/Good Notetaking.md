@@ -9,3 +9,5 @@ https://publish.obsidian.md/danny-hatcher/Notes/Homepage
 [[Progressive Summarization]]
 
 [[Zettelkasten Workflow]]
+
+[How to process reading annotations into evergreen notes](https://notes.andymatuschak.org/z2PJ51tCXuPFxnfFVUxxgwjvZ1geu4YnYm7hK)
