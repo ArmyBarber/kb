@@ -1,6 +1,6 @@
 [[US Capitalist-Imperialism]]
 
-[# America's national myth is an insult to the victims of the British Empire](https://web.archive.org/web/20160312150424/http://blog.crone.su/2015/07/americas-national-myth-is-insult-to.html)
+[America's national myth is an insult to the victims of the British Empire](https://web.archive.org/web/20160312150424/http://blog.crone.su/2015/07/americas-national-myth-is-insult-to.html)
 
 Today is July 4th, when everyone writes their requisite attack on American imperialist narrative. This is one of those, about the false division of American colonies and the British Empire.  
   

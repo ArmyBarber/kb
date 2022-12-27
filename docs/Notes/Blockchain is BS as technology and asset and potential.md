@@ -1,10 +1,11 @@
 - As asset, completely speculative, unstable, many scams
 - No assurances from centralization to protect users
 - As ledger, git already does same thing
-	- Both are merkle trees
+	- Both are [merkle trees](https://en.wikipedia.org/wiki/Merkle_tree)
 - No compelling uses for blockchain
-	- Other new "web technologies" relatively straightforward to see potential of
+	- [[Debunking ‘But Bitcoin is like the early Internet!’ |Other new "web technologies" relatively straightforward to see potential of]]
 	- Improvements in tech unlikely to improve features
+	- [[It's not still the early days]]
 - Little to show far
 	- Despite over 10 years, only use seems to be as speculative asset
 - Harmful consequences
