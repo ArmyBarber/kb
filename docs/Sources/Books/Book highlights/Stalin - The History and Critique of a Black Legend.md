@@ -4,7 +4,8 @@ Stalin: The History and Critique of a Black Legend
 Domenico Losurdo
 
 ---
-# Introduction: The Turning Point in the Historical Depiction of Stalin
+# \Introduction: The Turning Point in the Historical Depiction of Stalin
+------------------------------------------------------
 
 ## Highlight (pink) - Location 90
 
@@ -14,7 +15,8 @@ To place Russian communism and Nazi-fascism on the same moral place, in the meas
 
 Despite opposing one another, those political-ideological fields developed their portraits of Stalin based on colossal and arbitrary abstractions.
 
-# 1. How to Cast a God into Hell: The Khrushchev Report
+# 1\. How to Cast a God into Hell: The Khrushchev Report
+------------------------------------------------------
 
 ## Highlight (pink) - Location 238
 
@@ -594,7 +596,7 @@ On both sides, instead of committing to an exhaustive analysis of the objective 
 
 Trotsky is on the receiving end as well: he laments at seeing himself described as an “agent of a foreign power”, but in turn labels Stalin as an “agent provocateur at Hitler’s service."282
 
-# 5. The Distortion of History and the Construction of a Mythology: Stalin and Hitler as Twin Monsters
+# 5\. The Distortion of History and the Construction of a Mythology: Stalin and Hitler as Twin Monsters
 
 ## Highlight (blue) - Location 3054
 
@@ -868,7 +870,7 @@ The communist world, that encourages the revolt of the colonial peoples against 
 
 the USSR strongly supports Zionism and the creation of Israel. Stalin plays a frontline role, and perhaps even a decisive role. Without him “the emergence of the Jewish state in Palestine would have been difficult”―a Russian historian goes as far as saying, using documents recently made public in his country.705
 
-# 8. Demonization and Hagiography in the Reading of the Contemporary World
+# 8\. Demonization and Hagiography in the Reading of the Contemporary World
 
 ## Highlight (blue) - Location 5806
 
