@@ -1,0 +1,1 @@
+[Serve the People: The Eradication of Extreme Poverty in China](https://thetricontinental.org/studies-1-socialist-construction/)]()

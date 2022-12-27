@@ -1,3 +1,4 @@
+Author uknown
 From: https://rentry.co/ischinasocialist/raw
 
 
