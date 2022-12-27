@@ -3,6 +3,7 @@ From [[Power and Primacy Abridged and Updated Edition]]
 Any emphasis my own
 
 Key points
+
 - Incredible challenges to overcome at time of independence, following a century + of devastation
 - CPC's victory widely doubted at first - yet its superior manner in handling itself and treating those under its control led to mass defections from KMT 
 - Areas now treated as "contested" by Western powers (Taiwan, Tibet) were never in question as belonging to China when it was the KMT being dealt with 
