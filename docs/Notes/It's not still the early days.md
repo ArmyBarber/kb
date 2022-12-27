@@ -1,6 +1,6 @@
 [It's not still the early days (source)](https://blog.mollywhite.net/its-not-still-the-early-days/)
 
-[[Blockchain is BS as technology and asset and potential|More on Blockchain]]
+[[Blockchain is BS as current or potential technology and as asset|More on Blockchain]]
 
 - Blockchain has been around for quite some time (Bitcoin over 10 years (since 2009))
 - Compare to say, the change in smartphones in the same time period
