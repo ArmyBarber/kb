@@ -1,5 +1,5 @@
 Author uknown
-From: https://rentry.co/ischinasocialist/raw
+[Source](https://rentry.co/ischinasocialist/raw)
 
 
 >Wait there are socialists in China still?
