@@ -1,6 +1,6 @@
 # Welcome!
 
-Random notes/thoughts from ArmyBarber
+Random notes/thoughts from [ArmyBarber](https://twitter.com/ArmyBarber)
 
 ## What to expect
 
