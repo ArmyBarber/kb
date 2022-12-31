@@ -1,0 +1,1 @@
+[[Lenin, The Collapse of the Second International|From Lenin]], the ability of the revolutionary class to take mass action _strong enough_ to break the old government <b><ins>which will never happen, regardless of the crisis, if not toppled</ins></b>
