@@ -1,1 +1,1 @@
-Involves a combination of [[Refuting anticommunist propaganda]] and [[Exposing the reality of capitalism]]
+Involves a combination of [[Refuting anticommunist propaganda]], [[Exposing the reality of capitalism]], and highlighting the [[benefits of communism]]

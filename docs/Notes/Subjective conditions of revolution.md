@@ -1,1 +1,5 @@
-[[Lenin, The Collapse of the Second International|From Lenin]], the ability of the revolutionary class to take mass action _strong enough_ to break the old government <b><ins>which will never happen, regardless of the crisis, if not toppled</ins></b>
+[[Lenin, The Collapse of the Second International|From Lenin]], the ability of the revolutionary class to take mass action _strong enough_ to break the old government <b><ins>which will never happen, regardless of the crisis, if not toppled.</ins></b>
+
+Interestingly, at least [[Lenin, The Collapse of the Second International|according to Lenin]], activity of the masses itself seems to be taken as a given, as it is listed as the third criteria of his *[[Objective conditions of revolution|objective]]* conditions, while the part he lists as subjective is mass action ***sufficient/strong enough*** to topple the existing government. 
+
+This makes <b><ins>subjective conditions the deciding factor for a successful revolution.</ins></b> While they can't be put into action until the objective conditions are ripe, it would be foolish to think the preparation for that subjective factor begins only in the presence of the objective conditions. [[What is to be done]] .
