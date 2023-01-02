@@ -8,6 +8,7 @@ tags:
 
 1.  [[#On genuinely seeking peace/avoiding war]]
 2. [[#On Putin's wealth & how he is viewed by some on the right]]
+3. [[#Regarding fascists/fascism]]
 
 ## On genuinely seeking peace/avoiding war
 >a  couple months ago, you said something like 'a leader who genuinely cared about ending college debt would find a way to end all college debt.' by that logic, wouldn't a leader who genuinely cared about world peace and human welfare find a way to not invade a country and get thousands of people killed?
@@ -36,7 +37,7 @@ $\enspace$I don't have figures for his net worth, but regarding him being a bill
 $\enspace$No. American conservatives/fascists may try to project a certain image on to him, but he isn't courting them to my knowledge. Being socially conservative and a practicing Christian,  people may think he's trying to build a Christian state, and/or based on their perceptions of Russia (ignoring the diversity of people), a white one at that. I'm sure you can appreciate how some people may view Japan from the outside vs its reality. I'm also guessing attempts to play up some Trump/Russia connection and demonizing Trump based off of that led to a reflexive increase in positive opinion of Russia among some Trump supporters.
 $\enspace$What would be more concerning to me is if he had widespread support among fascists in Russia, and if that that support was courted by extreme rightwing statements. That sounds more in line with the Western darling of the Putin opposition, Alexei Navalny, who in a 2007 video described himself as a "certified nationalist" who wanted exterminate "flies and cockroaches" while bearded Muslim men appeared in cutaways[^23]. Amnesty International at one point revoked his designation as a "Prisoner of Conscience" due to discriminatory statements made that could be considered advocacy of hatred (a decision later reversed).[^24]
 
-
+## Regarding fascists/fascism
 
 
 
