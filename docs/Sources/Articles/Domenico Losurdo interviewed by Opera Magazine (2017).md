@@ -13,4 +13,8 @@ Mentions Russia avoiding becoming a colony, US as a source of counter revolution
 
 >The end of the Cold War, with the West and the United States triumphant, once again put Russia at risk of becoming a colony. Massive privatization was not only a betrayal of the working classes of the Soviet Union and Russia, it was also a betrayal of the Russian nation itself. The West was trying to take over Russia’s massive energy deposits, and the US came very close to acquiring them. Here Yeltsin played the role of “great champion” for the Western colonization effort. Putin is not a communist, that much is clear, but he wants to stop this colonization, and seeks to reassert Russian power over its energy resources.
 
+^c4b812
+
 >Therefore, in this context, we can speak of a struggle against a new colonial counter-revolution. We can speak of a struggle between the imperialist and colonialist powers — principally the United States — on the one side, and on the other we have China and the third world. Russia is an integral part of this greater third world, because it was in danger of becoming a colony of the West.
+
+^fd4560
