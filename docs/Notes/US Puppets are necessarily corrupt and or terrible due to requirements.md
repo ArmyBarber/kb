@@ -14,3 +14,4 @@
 > US general continues to exercise wartime operational control over the South Korean military, an uncomfortable reality that disproves the comforting myth (for South Koreans and US citizens) that the ROK is a sovereign country and not—what the North Korean media never grow tired of pointing out—a puppet of Washington. — location: [143](kindle://book?action=open&asin=B07BTLBSGS&location=143) ^ref-30650
 
 [[Patriots, Traitors and Empires#^ref-30650]]
+
