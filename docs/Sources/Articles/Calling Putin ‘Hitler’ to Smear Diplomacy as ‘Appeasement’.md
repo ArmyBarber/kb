@@ -1,0 +1,1 @@
+[Calling Putin ‘Hitler’ to Smear Diplomacy as ‘Appeasement’](https://fair.org/home/calling-putin-hitler-to-smear-diplomacy-as-appeasement/)
