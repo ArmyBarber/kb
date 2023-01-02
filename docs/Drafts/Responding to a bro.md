@@ -6,9 +6,9 @@ tags:
 ---
 **Contents**
 
-1.  [[#On genuinely seeking peace/avoiding war]]
-2. [[#On Putin's wealth & how he is viewed by some on the right]]
-3. [[#Regarding fascists/fascism]]
+1. [[#On genuinely seeking peace/avoiding war|On genuinely seeking peace/avoiding war]]
+2. [[#On Putin's wealth & how he is viewed by some on the right|On Putin's wealth & how he is viewed by some on the right]]
+3. [[#Regarding fascists/fascism|Regarding fascists/fascism]]
 
 ## On genuinely seeking peace/avoiding war
 >a  couple months ago, you said something like 'a leader who genuinely cared about ending college debt would find a way to end all college debt.' by that logic, wouldn't a leader who genuinely cared about world peace and human welfare find a way to not invade a country and get thousands of people killed?
