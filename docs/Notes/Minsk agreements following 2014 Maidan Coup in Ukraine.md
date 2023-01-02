@@ -22,6 +22,10 @@ Minsk agreements, and they include such steps as [^2]
 ## Steinmeier agreement in 2016
 >Steinmeier's formula calls for elections to be held in the separatist-held territories under Ukrainian legislation and the supervision of the OSCE. If the OSCE judges the balloting to be free and fair, then a special self-governing status for the territories will be initiated and Ukraine will be returned control of its easternmost border.[^3]
 
+[https://mronline.org/2022/02/25/what-are-the-minsk-agreements-and-what-are-their-role-in-the-russia-ukraine-crisis/](https://mronline.org/2022/02/25/what-are-the-minsk-agreements-and-what-are-their-role-in-the-russia-ukraine-crisis/)
+
+[Maligned in Western Media, Donbass forces are defending their future from Ukrainian shelling and fascism](https://mronline.org/2022/11/21/maligned-in-western-media-donbass-forces-are-defending-their-future-from-ukrainian-shelling-and-fascism/)
+
 ^54fd9d
 
 [^1]: [# Vladimir Putin answered media questions](http://en.kremlin.ru/events/president/news/67838)
