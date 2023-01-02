@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Liberalism: A Counter-History'
   author: Domenico Losurdo and Gregory Elliott
   asin: B00EGMBK0C
-  lastAnnotatedDate: '2022-07-04'
+  lastAnnotatedDate: '2023-01-02'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71H8imgDSPL._SY160.jpg'
-  highlightsCount: 308
+  highlightsCount: 309
 ---
 # Liberalism
 ## Metadata
@@ -880,6 +880,9 @@ a benevolent attitude towards the fascist coup d’état is not explicable solel
 
 ---
 it could now indeed be said that ‘the white savages of Europe are overrunning the dark savages everywhere’. — location: [7940](kindle://book?action=open&asin=B00EGMBK0C&location=7940) ^ref-52976
+
+---
+5. From the nineteenth to the twentieth century — location: [7995](kindle://book?action=open&asin=B00EGMBK0C&location=7995) ^ref-63621
 
 ---
 76 No less brutal than extra-legal violence was official justice: in the South blacks continued to be subject to a prison system so sadistic that it calls to mind ‘the prison camps of Nazi Germany’. — location: [8040](kindle://book?action=open&asin=B00EGMBK0C&location=8040) ^ref-40882
