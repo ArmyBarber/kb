@@ -3,3 +3,6 @@
 
 “The European working class will only succeed in overthrowing the capitalist order once [the source of its profits] has finally been stopped up,”
 -M. N. Roy, Indian revolutionary
+
+>What is fascism but colonialism at the very heart of traditionally colonialist countries?  
+ -Frantz Fanon, 1961. _Wretched of the Earth_

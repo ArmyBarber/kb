@@ -33,6 +33,8 @@ As described in [[The Jakarta Method]] and [[Washington Bullets]]
 
 >** capitalism cannot be overcome unless the arteries of imperialist accumulation are severed on a global scale.**
 
+^a884ae
+
 >What does this mean for those of us who live and organize in the imperial core? I would like to put forward three brief theses that follow from the preceding analysis:
 
 > 1.  _The revolution is already in motion._ Since the first anticolonial struggles unfolded, the revolution against imperialism—or capitalism in its international dimension—has been advancing along a winding path through the Third World project. **By holding the capacity to arrest the flows of imperial extraction that have made our world, the peoples of the Third World are the engines of progressive change for humanity.**

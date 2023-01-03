@@ -47,8 +47,44 @@ $\enspace$What would be more concerning to me is if he had widespread support am
 
 ## Regarding fascists/fascism
 
+From Roderic Day's excellent essay, *Really Existing Fascism*:
+>capitalism can be understood as a mode of production with (at least) two concurrent operational moments or aspects: violent expropriation — necessary whenever either big fortunes or desperate propertyless workers are lacking from the equation — and the “non-violent” regime of “voluntary” exploitation more often associated with “advanced” capitalist countries. Primitive accumulation never stops: at the same time that some in America live contented middle-class lives and millions of others get exploited by Amazon as contract workers, the United States uses its police forces to brutalize rebellious Black communities and its military forces to invade nations that haven’t sufficiently integrated into its market system. Capitalism expresses itself as voluntary exploitation in its core, and involuntary expropriation in its periphery (including its internal colonies).[^33]
 
+> Fascism is as co-constitutive of capitalism as liberalism is. Liberalism corresponds to the operational aspect of surplus value exploitation in the core, whereas fascism corresponds to the operational aspect of primitive accumulation at its temporal and spatial boundaries.
+................................
+> Describing fascism as the “death-rattle” of stage four obscures the fact that it has been present from the outset. Fascism is just the operational aspect that the unlucky part of the globe gets to experience capitalism _as._ We need to expand the model into a second dimension to integrate this understanding.
+>................................
+> 4.  Capitalism — Ideological superstructure in defense of _individual genius_ (entrepreneurship, race science, will to power)
+>     -   Expropriative aspect: Primitive accumulation, fascism.
+>     -   Exploitative aspect: Wage labour, liberalism.
+> ................................
+> This model conceives of the Axis powers as _failed_ fascist experiments in empire-building, and the North Atlantic empires as _successful_ ones. Fascism as an accusation stops relying on a cartoonish depiction of the Nazis as a cautionary tale of a potential future dystopia. Instead, it captures the fact that vicious dehumanizing brutality is _co-constitutive_ of the violent, white supremacist, “freedom-loving” Western worldview.[^34]
 
+-   US as a nation has always been fascist
+-   Not seen as "classically" fascist cause rest of world bears cost of suffering
+-   Even US liberals facilitate this slaughter
+- [[Really Existing Fascism]]
+
+-   Russia has had conflicts dealing w/ preventing breaking up of Russia, and supported Syria at request of government
+
+>If Western aggression pushed Russia to prioritize sovereign development, that historical process also pushed it into alignment with the broader Third World project . . . . Russia’s response has been to accelerate Eurasian integration—pursuing a vigorous relationship with China, India, and its regional neighbors—while expanding alliances with Iran, Cuba, Venezuela, and other states suffocated by the knee of U.S. imperialism . . . . Russia would come to situate both its past and its future firmly within the Third World. “The West is ready to cross every line to preserve the neocolonial system which allows it to live off the world,” Putin said in 2022. It is prepared “to plunder it thanks to the domination of the dollar and technology, to collect an actual tribute from humanity, to extract its primary source of unearned prosperity, the rent paid to the hegemon.”[30](http://en.kremlin.ru/events/president/news/69465)
+
+>The material imperatives shared by Russia and the Third World explain the isolation of the Western powers in their war of condemnation and economic siege against Russia.[^37]
+
+> as long as the Western powers can feed in the troughs of Third World labor and wealth, capitalism will continue its destructive march. That path, today, is secured by powerful militaries prepared to trample people and destroy nations.
+> 
+> What does this mean for those of us who live and organize in the imperial core? I would like to put forward three brief theses that follow from the preceding analysis:
+> 
+> 1.  _The revolution is already in motion._ Since the first anticolonial struggles unfolded, the revolution against imperialism—or capitalism in its international dimension—has been advancing along a winding path through the Third World project. By holding the capacity to arrest the flows of imperial extraction that have made our world, the peoples of the Third World are the engines of progressive change for humanity.
+> 2.  _Those in the West are not the revolution’s primary protagonists._ The European revolution was brutally crushed by a powerful ruling class supported by imperial plunder. Lacking state power, the left in the imperialist states cannot dictate the terms of the tectonic processes taking place, and should not try to direct them in ways that provide ideological cover for our ruling classes. Too much ground has been ceded to the imperialists in the pursuit of narrow electoral gains or parliamentary strategies. No power can be built by targeting our limited political capacities against the official enemies of our ruling classes.
+> 3.  _The anti-imperialist left in the West operates inside the monster._ The weakness of the Western left is a mirror image of the strength of its ruling classes. At a moment when the Western bourgeoisie faces a historic challenge to its hegemony, the task is not to reassert its power through milquetoast reforms that buttress capitalism against its calamitous contradictions, but to fight for its ultimate defeat. It is an enemy we share with the majority of the world’s people and the planet we inhabit.
+> 
+> Our most important task, then, is to reclaim socialist anti-imperialism as a category of thought and action—working with the grain of revolutionary change rather than against it. This demands nothing less than the recovery of the political audacity we lost at the so-called end of history, when the positions of global socialism retreated and the imperialist ideology proclaimed itself to be as inevitable as oxygen. History has not gone anywhere. Today, it calls on us to be clear in our critique of imperialism, unrelenting in our assault against it, and bold in envisioning an alternative to capitalism that answers the cries of the working classes in our societies—cries that are being met once again by the siren song of the far right.
+> 
+> The stakes could not be greater.[^38]
+
+- “The European working class will only succeed in overthrowing the capitalist order once [the source of its profits] has finally been stopped up,”[^35]
+- "Capitalism cannot be overcome unless the arteries of imperialist accumulation are severed on a global scale."[^36]
 
 
 [^1]: [Karl Marx. The German Ideology. 1845](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm)
@@ -83,3 +119,9 @@ $\enspace$What would be more concerning to me is if he had widespread support am
 [^30]: ["a website tried to claim Stalin had a net worth of $7.5 trillion because he was in charge of the USSR therefore the USSRs assets were his"](https://twitter.com/ScottishCommie/status/1453090990898679817)
 [^31]: [Has Alexey Navalny moved on from his nationalist past?](https://www.aljazeera.com/news/2021/2/25/navalny-has-the-kremlin-foe-moved-on-from-his-nationalist-past)
 [^32]: [Statement on Alexei Navalny’s status as Prisoner of Conscience](https://www.amnesty.org/en/latest/press-release/2021/05/statement-on-alexei-navalnys-status-as-prisoner-of-conscience/)
+[^33]: [Really Existing Fascism](https://redsails.org/really-existing-fascism/)
+[^34]: [Really Existing Fascism](https://redsails.org/really-existing-fascism/)
+[^35]: [Supplementary Theses On The National And Colonial Question, Fourth Session of Second Congress of the Communist International](https://www.marxists.org/history/international/comintern/2nd-congress/ch04.htm#:~:text=Supplementary%20Theses%20On%20The%20National%20And%20Colonial%20Question)
+[^36]: [NATO and the Long War on the Third World](https://monthlyreview.org/2023/01/01/nato-and-the-long-war-on-the-third-world/)
+[^37]: [NATO and the Long War on the Third World](https://monthlyreview.org/2023/01/01/nato-and-the-long-war-on-the-third-world/)
+[^38]: [NATO and the Long War on the Third World](https://monthlyreview.org/2023/01/01/nato-and-the-long-war-on-the-third-world/)
