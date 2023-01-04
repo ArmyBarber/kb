@@ -1,0 +1,4 @@
+
+"What is needed instead is a revolutionary humanity inspired by reason and dedicated to the struggle to create what Marx called “the perfected unity in essence of man with nature.” This can only be achieved through the transcendence of the capitalist order and the rational regulation of “the interdependent process of social metabolism” by the associated producers.[65](https://monthlyreview.org/2023/01/01/marxs-critique-of-enlightenment-humanism-a-revolutionary-ecological-perspective/#en65) There is no other way."[^1]
+
+[^1]: [[Marx's Critique of Enlightenment Humanism#^5fc668|Marx's Critique of Enlightenment Humanism]]

@@ -1,0 +1,12 @@
+
+[Reflections on Lenin’s Dialectics](https://monthlyreview.org/2023/01/01/reflections-on-lenins-dialectics/)
+
+> ## Conclusion
+> 
+> Summing up our research, we can say that Lenin’s understanding of dialectics is oriented (among other things) to a _whole and concrete_ vision of the historical situation, and it is this ensemble that determines Lenin’s enduring relevance. The most important thing in Lenin’s dialectic is _to see a constantly changing and developing totality_—the universal connection of phenomena, the dialectic of essence and phenomenon, the inclusion of a specific, concrete object/process in the whole, and the historicity of this whole.
+> 
+> Any scientist, organizer, factory director, workshop head, foreperson, educator, and politician should learn from Lenin this organic, plastic consideration of any phenomenon through the prism of its inclusion in an integral structure. The simplest example of this consideration, as we have seen, is Lenin’s analysis of a glass of water, an analysis that is often ridiculed today, without understanding its inner depth. Therefore, based on Lenin’s version of Marxist dialectics, we can create not only scientific methods and concepts, but also develop management practices at various levels.
+> 
+> However, the most important thing in Lenin’s social and practical dialectics is not only the “_point of view of totality_” or _concrete historical analysis of the situation_, but, above all, _the return of the revolutionary subject to social and historical practice_. In fact, in contrast to the leaders of the Second International, who considered the coming socialist revolution to be a purely objective social process, Lenin, in his socio-political dialectics, returned to Marxism the _subject_ and the _subjective dimension_ of social existence.
+> 
+> Consequently, it is most significant that, in abandoning the “automatism” and fatalism of the leaders of the Second International, Lenin gave the labor movement what today is not quite rightly called _utopia_ or _utopian consciousness_: an image of a just human future society that does not come about “by itself” by virtue of the abstract “historical necessity,” but one that _must be created by the people themselves_, for they are the creators of their own history.
