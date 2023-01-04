@@ -8,6 +8,7 @@
 
 
 -   [Excellent article by John Mearsheimer from 2014, laying out steps the West could take to avert crisis (all ignored) while laying out how the outcome otherwise would be disaster for Ukraine](app://obsidian.md/Why%20the%20Ukraine%20Crisis%20Is%20the%20West%E2%80%99s%20Fault.pdf)
+- [Policies of post CCCP Russia](https://leohezhao.medium.com/putin-russia-and-putins-russia-ab2de6d0bb2f)
 -   [US pledge in 1991 to not expand NATO an inch in the East](app://obsidian.md/US%20pledge%20in%201991%20to%20not%20expand%20NATO%20an%20inch%20in%20the%20East)
 -   [Russia long sought assurances over Ukraine membership (even after initial agreement broken multiple times)](https://www.indianpunchline.com/biden-white-house-spoofs-the-kremlin/)
 -   [Chomsky: Of course, it was provoked. Otherwise, they wouldn’t refer to it all the time as an unprovoked invasion.](https://www.counterpunch.org/2022/06/28/not-a-justification-but-a-provocation-chomsky-on-the-root-causes-of-the-russia-ukraine-war/)
