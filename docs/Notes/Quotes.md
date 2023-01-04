@@ -16,3 +16,9 @@ What is fascism but colonialism at the very heart of traditionally colonialist c
 
 “The essence of man is no abstraction inherent in each single individual. In its reality it is the ensemble of social relations.”
 -Marx, [_Theses on Feuerbach_](https://www.marxists.org/archive/marx/works/1845/theses/theses.htm)
+
+"By the dialectics of reform and revolution I mean the following: revolution is the _denouement_ of a persistent demand for reform on the part of the people which the system cannot accommodate. Therefore pressing for reform and mobilizing people around a demand for reform is not “reformism”; it is itself a revolutionary task. The problem with social democracy which is avowedly “reformist” is not that it asks for “reform” instead of “revolution” but that, being avowedly “reformist” it tailors and limits its demand for reform only to whatever the system can agree to. It does not ask for reforms that push the boundaries of the system."
+-[The Problem with the Indian Left – IDEAs](https://www.networkideas.org/news-analysis/2017/12/problem-indian-left/)
+
+"But not to demand something under capitalism because its realization is not possible under capitalism is precisely to miss the dialectics between reforms and revolution; on the contrary the whole point of Left praxis must be to demand things which are not necessarily possible under capitalism."
+-[The Problem with the Indian Left – IDEAs](https://www.networkideas.org/news-analysis/2017/12/problem-indian-left/)
