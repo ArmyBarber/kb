@@ -1,0 +1,26 @@
+[The purpose of this operation is to protect people who, for eight years now, have been facing humiliation and genocide perpetrated by the Kiev regime. To this end, we will seek to demilitarise and denazify Ukraine, as well as bring to trial those who perpetrated numerous bloody crimes against civilians, including against citizens of the Russian Federation.](http://en.kremlin.ru/events/president/news/67843)
+
+> Even now, with NATO’s eastward expansion the situation for Russia has been becoming worse and more dangerous by the year. Moreover, these past days NATO leadership has been blunt in its statements that they need to accelerate and step up efforts to bring the alliance’s infrastructure closer to Russia’s borders. In other words, they have been toughening their position. We cannot stay idle and passively observe these developments. This would be an absolutely irresponsible thing to do for us.
+> 
+> Any further expansion of the North Atlantic alliance’s infrastructure or the ongoing efforts to gain a military foothold of the Ukrainian territory are unacceptable for us. Of course, the question is not about NATO itself. It merely serves as a tool of US foreign policy. The problem is that in territories adjacent to Russia, which I have to note is our historical land, a hostile “anti-Russia” is taking shape. Fully controlled from the outside, it is doing everything to attract NATO armed forces and obtain cutting-edge weapons.
+> 
+> For the United States and its allies, it is a policy of containing Russia, with obvious geopolitical dividends. For our country, it is a matter of life and death, a matter of our historical future as a nation. This is not an exaggeration; this is a fact. It is not only a very real threat to our interests but to the very existence of our state and to its sovereignty. It is the red line which we have spoken about on numerous occasions. They have crossed it.
+
+
+-   [Excellent article by John Mearsheimer from 2014, laying out steps the West could take to avert crisis (all ignored) while laying out how the outcome otherwise would be disaster for Ukraine](app://obsidian.md/Why%20the%20Ukraine%20Crisis%20Is%20the%20West%E2%80%99s%20Fault.pdf)
+-   [US pledge in 1991 to not expand NATO an inch in the East](app://obsidian.md/US%20pledge%20in%201991%20to%20not%20expand%20NATO%20an%20inch%20in%20the%20East)
+-   [Russia long sought assurances over Ukraine membership (even after initial agreement broken multiple times)](https://www.indianpunchline.com/biden-white-house-spoofs-the-kremlin/)
+-   [Chomsky: Of course, it was provoked. Otherwise, they wouldn’t refer to it all the time as an unprovoked invasion.](https://www.counterpunch.org/2022/06/28/not-a-justification-but-a-provocation-chomsky-on-the-root-causes-of-the-russia-ukraine-war/)
+-   [US backed coup in 2014 putting far right nationalist gov in place](app://obsidian.md/2014%20Maidan%20Coup%20in%20Ukraine)
+-   [CNN reporting on Poroshenko bombing Donetsk in 2014](https://twitter.com/Syricide/status/1609202292472832000)
+-   [CNN reporting on Poroshenko bombing Donetsk in 2014](app://obsidian.md/CNN_2014_Poroshenko_Donetsk.mp4)
+-   [Poroshenko: "Their children will hole up in the basements - this is how we win the war!"](https://www.youtube.com/watch?v=aHWHqj8g7Bk)
+-   [Minsk agreements](app://obsidian.md/Minsk%20agreements%20following%202014%20Maidan%20Coup%20in%20Ukraine)
+    -   [2016 agreement called for legislation held in Donbass and potential self-governing status](app://obsidian.md/Minsk%20agreements%20following%202014%20Maidan%20Coup%20in%20Ukraine#^54fd9d)
+    -   [Used to buy time for Ukraine to arm up](https://consortiumnews.com/2022/12/05/scott-ritter-merkel-reveals-wests-duplicity/)
+        -   ["Do you also believe that the negotiations in Minsk were intended to delay Russian advances in Ukraine? François Hollande: Yes, Angela Merkel is right on this point."](https://kyivindependent.com/national/hollande-there-will-only-be-a-way-out-of-the-conflict-when-russia-fails-on-the-ground)
+-   "Although the Donbass people had been pleading for Russian military aid to defend them against the increasingly murderous military assaults by the Ukraine government forces, which killed more than 14,000 of their people, Russian President Vladimir Putin declined to intervene. Instead, he tried to broker a peace agreement between the warring parties"[[7]](app://obsidian.md/index.html#fn-7-8ed4f4fe78a9672c)
+-   [NATO admits it wants ‘Ukrainians to keep dying’ to bleed Russia, not peace](https://mronline.org/2022/04/13/nato-admits-it-wants-ukrainians-to-keep-dying-to-bleed-russia-not-peace/)
+-   [8 years on, Ukrainian crisis is still the West's fault](https://mronline.org/2022/03/15/8-years-on-the-ukrainian-crisis-is-still-the-wests-fault/)
+-   [Boris Johnson Pressured Zelenskyy to Ditch Peace Talks With Russia: Ukrainian Paper](https://www.commondreams.org/news/2022/05/06/boris-johnson-pressured-zelenskyy-ditch-peace-talks-russia-ukrainian-paper)
+-   [Russia is seeking to avoid being colonized (genuine concern)](app://obsidian.md/Domenico%20Losurdo%20interviewed%20by%20Opera%20Magazine%20(2017)#^c4b812)
