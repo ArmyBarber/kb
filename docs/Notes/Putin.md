@@ -1,1 +1,3 @@
 [Majority in Russia supports Putin](http://johnhelmer.net/the-majority-in-russia-supports-putin-for-them-the-war-is-a-form-of-resistance/)
+
+[[Putins net worth]]
