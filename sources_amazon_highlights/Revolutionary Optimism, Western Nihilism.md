@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Revolutionary Optimism, Western Nihilism'
   author: Andre Vltchek
   asin: B07G38G3V3
-  lastAnnotatedDate: '2023-01-04'
+  lastAnnotatedDate: '2023-01-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81tumR-TwZL._SY160.jpg'
-  highlightsCount: 24
+  highlightsCount: 25
 ---
 # Revolutionary Optimism, Western Nihilism
 ## Metadata
@@ -17,6 +17,9 @@ kindle-sync:
 
 ## Highlights
 What used to make the culture of Islam so attractive – tolerance, learning, concern for the wellbeing of the people – has been amputated from the Muslim realm, destroyed from abroad. What was left was only religion. — location: [400](kindle://book?action=open&asin=B07G38G3V3&location=400) ^ref-14291
+
+---
+Between 1995 and now, the West plundered the Democratic Republic of Congo once again, mercilessly, by using its closest allies in Africa – Rwanda, Uganda and Kenya. Again, between 7 and 10 million people died there, in just 20 years, — location: [483](kindle://book?action=open&asin=B07G38G3V3&location=483) ^ref-22468
 
 ---
 That’s why they stick to self-righteous lies, deceptions and dogmas delivered to them by the regime’s propaganda. If Communists were right, then they would be wrong. And they suspect that they may be wrong. Communism is their bad conscience, and it brings fear that the bubble of deceptions could one day get exposed. — location: [778](kindle://book?action=open&asin=B07G38G3V3&location=778) ^ref-17804

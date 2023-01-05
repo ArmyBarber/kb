@@ -1,6 +1,6 @@
 ---
 created: 2023-01-04T16:28:15 (UTC -05:00)
-tags: 
+tags: Losurdo
 source: https://docs.google.com/document/d/11c3nMyEAOag3YOfyk2AnPy-4bEuTktcRq3YGqnY2RnU/edit
 author: Losurdo
 ---
