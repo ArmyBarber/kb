@@ -26,11 +26,13 @@ theme:
 markdown_extensions:
   - footnotes
   - tables
+  - nl2br
+  - admonition
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.details
   # - pymdownx.magiclink
   # - pymdownx.pathconverter:
       # base_path: 'kb' # default: ''
@@ -51,7 +53,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
+  - callouts 
   - mermaid2
 
 extra_javascript:
