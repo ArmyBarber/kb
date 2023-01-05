@@ -28,7 +28,7 @@ markdown_extensions:
   - tables
   - nl2br
   - admonition
-  # - attr_list
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.superfences
@@ -56,6 +56,7 @@ plugins:
   - roamlinks
   - callouts 
   - mermaid2
+  - tags
 
 extra_javascript:
   - javascripts/mathjax.js
