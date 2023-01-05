@@ -1,4 +1,8 @@
 ---
+tags:
+  - West
+  - Western left
+  - Idealists
 ---
 
 Don't take seriously [[US Capitalist-Imperialism]] and don't understand the [[Capitalism - colonialism - imperialism - fascism link]]

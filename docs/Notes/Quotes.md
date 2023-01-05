@@ -22,3 +22,10 @@ What is fascism but colonialism at the very heart of traditionally colonialist c
 
 "But not to demand something under capitalism because its realization is not possible under capitalism is precisely to miss the dialectics between reforms and revolution; on the contrary the whole point of Left praxis must be to demand things which are not necessarily possible under capitalism."
 -[The Problem with the Indian Left – IDEAs](https://www.networkideas.org/news-analysis/2017/12/problem-indian-left/)
+
+
+> [!quote]- Marx - foldable
+> The essence of man is no abstraction inherent in each single individual. In its reality it is the ensemble of social relations.
+
+> [!quote] Marx
+> The essence of man is no abstraction inherent in each single individual. In its reality it is the ensemble of social relations.

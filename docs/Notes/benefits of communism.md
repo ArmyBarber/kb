@@ -1,1 +1,5 @@
-Can't believe there's not more here! I know, don't worry, it's coming
+> [!abstract] 
+>  Here I will list out benefits of communism
+
+> [!info]
+> This note is intended to list benefits of communism
