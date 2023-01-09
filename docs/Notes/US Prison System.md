@@ -12,3 +12,6 @@
 [Arizona inducing labor of pregnant prisoners against their will](https://www.azcentral.com/story/news/local/arizona/2023/01/02/arizona-inducing-labor-of-pregnant-prisoners-against-their-will/69768038007/)
 
 [[The Punishment Bureaucracy - How to Think About Criminal Justice Reform]]
+
+"The prison won't allow younger prisoners to bring elderly prisoners their meals anymore. This morning I watched men in their 70s, one of whom has a 20lb hernia hanging outside of his body, use their walkers to make the .5 mile walk in the rain just to get food."
+[@ChrisWBlackwell](https://twitter.com/ChrisWBlackwell/status/1611026369642917888?s=20)
