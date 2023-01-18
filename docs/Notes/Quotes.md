@@ -29,3 +29,5 @@ What is fascism but colonialism at the very heart of traditionally colonialist c
 
 > [!quote] Marx
 > The essence of man is no abstraction inherent in each single individual. In its reality it is the ensemble of social relations.
+
+![[Pasted image 20230118133654.png]]

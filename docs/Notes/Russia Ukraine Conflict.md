@@ -17,3 +17,13 @@
 ### Military aspect
 
 [What’s Ahead in the War in Ukraine | Russia Matters](https://www.russiamatters.org/analysis/whats-ahead-war-ukraine)
+
+
+### Propaganda
+
+"As Lambert, a battle-scarred veteran of the War in Iraq information wars has repeatedly volunteered, the propaganda shrouding the Ukraine conflict is far more intense and truth-disengaged than anything has encountered. I agree. And as readers and colleagues have attested, it’s also turned plenty of formerly-thinking people into narrative wind-up dolls."[^1]
+
+
+
+
+[^1]: [What if Russia Won the Ukraine War but the Western Press Didn’t Notice?](https://www.nakedcapitalism.com/2023/01/what-if-russia-won-the-ukraine-war-but-the-western-press-didnt-notice.html)
