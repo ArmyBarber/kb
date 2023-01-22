@@ -15,3 +15,9 @@
 
 "The prison won't allow younger prisoners to bring elderly prisoners their meals anymore. This morning I watched men in their 70s, one of whom has a 20lb hernia hanging outside of his body, use their walkers to make the .5 mile walk in the rain just to get food."
 [@ChrisWBlackwell](https://twitter.com/ChrisWBlackwell/status/1611026369642917888?s=20)
+
+Terrible conditions, including solitary confinement for children:
+
+>And that’s the part of his case that has haunted me. As a teen, he endured some of the worst youth solitary confinement conditions I’ve ever heard described: He spent weeks in dimly lit cells covered in semen, wearing toilet paper for shoes.
+>![[Pasted image 20230122113552.png]]
+[@keribla](https://twitter.com/keribla/status/1617042224403083265?t=4BLOLAXfADznIHsXIkIgTQ)

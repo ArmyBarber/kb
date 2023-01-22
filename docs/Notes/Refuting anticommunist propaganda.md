@@ -1,3 +1,8 @@
+US history is often interpreted in an extremely charitable light (fundamentally good, though flawed) while aspects of Communist states, in addition to being exaggerated, are treated as fundamental aspects of the system.
+Ex: compare [[Gulags|gulags]] to the [[US Prison System|US prison system]]
+
+A fundamental theme: not only are aspects of communist states massively exaggerated, their equivalents in existing capitalist/imperialist states are far worse. And while in the former, less seemly aspects have a purpose in mind and can quickly be done away with/improved, in the latter, such aspects are far more fundamental.
+
 List:
 - [[Report On Xinjiang]]
 - [[Stalin Losurdo]]
@@ -10,3 +15,4 @@ List:
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">No one denies the fact that the people of the Soviet Union experienced a famine from 1932 to 1933. Rather, we argue against the anti-communist conspiracy that claims that the famine was a deliberate policy aimed at suppressing the nationalist spirit of the Ukrainian people. (1/7) <a href="https://t.co/TDliZRyk9K">https://t.co/TDliZRyk9K</a> <a href="https://t.co/sstXsoAfpL">pic.twitter.com/sstXsoAfpL</a></p>&mdash; Communist Party USA (@communistsusa) <a href="https://twitter.com/communistsusa/status/1610008685031428097?ref_src=twsrc%5Etfw">January 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [[Tauger Agrarian Studies USSR]]
+
