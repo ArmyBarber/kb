@@ -10,3 +10,9 @@
 - Extreme poverty rate down from 40% to 3%
 - Debt-to-GDP down from 93% to 16%
 - Crime rate down from 28/100k to 7
+
+[Sources](https://twitter.com/blibberbl0b/status/1615085152446677007?t=vG_FxXzFkbHgpxNITL_4Vg):
+
+1) [Russia Life Expectancy 1950-2023 | MacroTrends](https://www.macrotrends.net/countries/RUS/russia/life-expectancy) says 72.98 
+3) [Russia: fertility rate 1840-2020 | Statista](https://www.statista.com/statistics/1033851/fertility-rate-russia-1840-2020/) says 1.82 (2020) 
+4) [Russia Poverty Rate 1997-2023  MacroTrends](https://www.macrotrends.net/countries/RUS/russia/poverty-rate) says 2.9% (2020)
