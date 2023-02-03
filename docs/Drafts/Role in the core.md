@@ -26,6 +26,8 @@ Education is the order of the day! Some thoughts:
 	- Housing - home ownership has long been part of the "American dream" (are current homeowners too far gone to convince?). More and more people can only manage to rent, and, well, who likes their landlord? I often think I could be content not ever living in a house of my own, but would be so much happier not paying so much of my paycheck towards rent
 		- Even for homeowners, it can be a precarious situation for the many people living paycheck to paycheck. And one can recall what happened in the aftermath of the [[2008 financial crisis]]
 
+On the note of showing limits of the system, [[things a sincere leader or party could work for]]
+
 These are but a few examples, but, the next step needs to be educating about the nature of the capitalist system (and the political system as well, along with the idea that they're not these cleanly divided realms). Even if at best we can extract concessions from the system, [[Socialism or reformism|they will not last without a comprehensive change in the system]]
 
 The futility of the current system must be matched with a [[Case for communism|convincing alternate path]], as to avoid despair.
