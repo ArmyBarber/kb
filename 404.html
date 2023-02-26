@@ -1,0 +1,6100 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      <link rel="icon" href="/assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.15">
+    
+    
+      
+        <title>ArmyBarber notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="/assets/stylesheets/main.113286f1.min.css">
+      
+        
+        <link rel="stylesheet" href="/assets/stylesheets/palette.a0c5b2b5.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("/",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="/." title="ArmyBarber notes" class="md-header__button md-logo" aria-label="ArmyBarber notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            ArmyBarber notes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="/." title="ArmyBarber notes" class="md-nav__button md-logo" aria-label="ArmyBarber notes" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    ArmyBarber notes
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/." class="md-nav__link">
+        Welcome!
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Drafts
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Drafts
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Drafts/Response%20to%20friend/" class="md-nav__link">
+        Response to friend
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Drafts/Role%20in%20the%20core/" class="md-nav__link">
+        Role in the core
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Drafts/Task%20failed%20successfully/" class="md-nav__link">
+        Task failed successfully
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Notes
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Notes
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/0%20Bucket/" class="md-nav__link">
+        0 Bucket
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/1776/" class="md-nav__link">
+        1776
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/2008%20financial%20crisis/" class="md-nav__link">
+        2008 financial crisis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/2014%20Maidan%20Coup%20in%20Ukraine/" class="md-nav__link">
+        2014 Maidan Coup in Ukraine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Active%20Ideation/" class="md-nav__link">
+        Active Ideation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Background%20and%20Rationale%20of%20Russian%20Intervension%20in%20Ukraine/" class="md-nav__link">
+        Background and Rationale of Russian Intervension in Ukraine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Blockchain%20is%20BS%20as%20current%20or%20potential%20technology%20and%20as%20asset/" class="md-nav__link">
+        Blockchain is BS as current or potential technology and as asset
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Capitalism%20-%20colonialism%20-%20imperialism%20-%20fascism%20link/" class="md-nav__link">
+        Capitalism   colonialism   imperialism   fascism link
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Case%20for%20communism/" class="md-nav__link">
+        Case for communism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Casual%20anticommunist%20propaganda/" class="md-nav__link">
+        Casual anticommunist propaganda
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/China%20in%20Africa/" class="md-nav__link">
+        China in Africa
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/China/" class="md-nav__link">
+        China
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Climate%20Change/" class="md-nav__link">
+        Climate Change
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Contrasting%20popular%20notions%20of%20oppression%20in%20other%20countries%20with%20American%20reality/" class="md-nav__link">
+        Contrasting popular notions of oppression in other countries with American reality
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Devastation%20following%20the%20collapse%20of%20the%20USSR/" class="md-nav__link">
+        Devastation following the collapse of the USSR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Excerpts%20on%20PRC%20founding%20and%20challenges/" class="md-nav__link">
+        Excerpts on PRC founding and challenges
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Exposing%20the%20reality%20of%20capitalism/" class="md-nav__link">
+        Exposing the reality of capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Fall%20of%20the%20USSR/" class="md-nav__link">
+        Fall of the USSR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Fleeting/" class="md-nav__link">
+        Fleeting
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Fun%20facts%20about%20Founding%20Fathers/" class="md-nav__link">
+        Fun facts about Founding Fathers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Good%20Notetaking/" class="md-nav__link">
+        Good Notetaking
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Gulags/" class="md-nav__link">
+        Gulags
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Higher%20complexity%20increases%20likelihood%20of%20scam%20or%20ineffectiveness/" class="md-nav__link">
+        Higher complexity increases likelihood of scam or ineffectiveness
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/How%20to%20turn%20your%20notes%20into%20published%20articles%20and%20books%20using%20the%20Obsidian%20app%20with%20Eleanor%20Konik/" class="md-nav__link">
+        How to turn your notes into published articles and books using the Obsidian app with Eleanor Konik
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Idea%20vs%20Expectation/" class="md-nav__link">
+        Idea to get across
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Intent%20for%20this%20page%20and%20notes/" class="md-nav__link">
+        Intent for this page and notes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/It%27s%20not%20still%20the%20early%20days/" class="md-nav__link">
+        It's not still the early days
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Key%20Supply%20Chain%20Areas/" class="md-nav__link">
+        Key Supply Chain Areas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Liberal%20smugness%20regarding%20getting%20anything%20meaningful%20done/" class="md-nav__link">
+        Liberal smugness regarding getting anything meaningful done
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/List%20of%20things%20that%20would%20make%20a%20huge%20impact%20in%20peoples%20lives%20yet%20are%20extremely%20unlikely%20to%20occur%20under%20current%20system/" class="md-nav__link">
+        List of things that would make a huge impact in peoples lives yet are extremely unlikely to occur under current system
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Magnitsky%20act%20-%20classic%20Russian%20corruption%20or%20BS/" class="md-nav__link">
+        Magnitsky act   classic Russian corruption or BS
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Medicare%20for%20all%20would%20save%20money%20and%20improve%20lives/" class="md-nav__link">
+        Medicare for all would save money and improve lives
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Memes/" class="md-nav__link">
+        Memes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Minsk%20agreements%20following%202014%20Maidan%20Coup%20in%20Ukraine/" class="md-nav__link">
+        Minsk agreements following 2014 Maidan Coup in Ukraine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Myths%20about%20the%20United%20States/" class="md-nav__link">
+        American Revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/NATO/" class="md-nav__link">
+        NATO
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Not%20all%20contradictions%20are%20antagonistic%20but%20should%20be%20worked%20towards%20being%20resolved%20still/" class="md-nav__link">
+        Not all contradictions are antagonistic but should be worked towards being resolved still
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Objective%20conditions%20of%20revolution/" class="md-nav__link">
+        Objective conditions of revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Obsidian%20Guides/" class="md-nav__link">
+        Obsidian Guides
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/On%20Liberalism/" class="md-nav__link">
+        On Liberalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/On%20elections%2C%20electoralism%2C%20voting%20etc/" class="md-nav__link">
+        On elections, electoralism, voting etc
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Pharmaceutical%20industry%20in%20the%20US/" class="md-nav__link">
+        Pharmaceutical industry in the US
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Poverty%20Alleviation%20in%20China/" class="md-nav__link">
+        Poverty Alleviation in China
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Problems%20with%20%27Western%20Left%27/" class="md-nav__link">
+        Problems with 'Western Left'
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Progressive%20Summarization/" class="md-nav__link">
+        Progressive Summarization
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Propaganda%20methods%20and%20tropes/" class="md-nav__link">
+        Propaganda methods and tropes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Putin/" class="md-nav__link">
+        Putin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Putins%20net%20worth/" class="md-nav__link">
+        Putins net worth
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Queen%27s%20death%2C%20fascism%2C%20value%20of%20life/" class="md-nav__link">
+        Queen's death, fascism, value of life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Quotes/" class="md-nav__link">
+        Quotes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Refuting%20anticommunist%20propaganda/" class="md-nav__link">
+        Refuting anticommunist propaganda
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Report%20On%20Xinjiang/" class="md-nav__link">
+        Report On Xinjiang
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Role%20of%20dollar%20in%20US%20imperialism/" class="md-nav__link">
+        Role of dollar in US imperialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Russia%20Ukraine%20Conflict/" class="md-nav__link">
+        Russia Ukraine Conflict
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Scientific%20socialism/" class="md-nav__link">
+        Scientific socialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Soviet%20Foreign%20Relations/" class="md-nav__link">
+        Soviet Foreign Relations
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Subjective%20conditions%20of%20revolution/" class="md-nav__link">
+        Subjective conditions of revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Support%20for%20the%20Syrian%20regime/" class="md-nav__link">
+        Support for the Syrian regime
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Syrian%20civil%20war%20-%20or%20more%20accurately%2C%20US%20backed%20regime%20change%20effort/" class="md-nav__link">
+        Syrian civil war   or more accurately, US backed regime change effort
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Systemic%20tendencies%20of%20capitalism/" class="md-nav__link">
+        Systemic tendencies of capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Tauger%20Agrarian%20Studies%20USSR/" class="md-nav__link">
+        Tauger Agrarian Studies USSR
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Testing%20comments/" class="md-nav__link">
+        Testing comments
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/The%20Zettelkasten%20Method%20Examples%20to%20help%20you%20get%20started./" class="md-nav__link">
+        The Zettelkasten Method Examples to help you get started.
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/US%20Capitalist-Imperialism/" class="md-nav__link">
+        US Capitalist Imperialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/US%20Prison%20System/" class="md-nav__link">
+        US Prison System
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/US%20Puppets%20are%20necessarily%20corrupt%20and%20or%20terrible%20due%20to%20requirements/" class="md-nav__link">
+        US Puppets are necessarily corrupt and or terrible due to requirements
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/US%20empire%20as%20international%20dictatorship%20of%20the%20bourgeoisie/" class="md-nav__link">
+        US empire as international dictatorship of the bourgeoisie
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/US%20pledge%20in%201991%20to%20not%20expand%20NATO%20an%20inch%20in%20the%20East/" class="md-nav__link">
+        US pledge in 1991 to not expand NATO an inch in the East
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/US%20sanctions%20as%20key%20tool%20of%20empire%20and%20their%20devastating%20effects/" class="md-nav__link">
+        US sanctions as key tool of empire and their devastating effects
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Utopian%20socialism/" class="md-nav__link">
+        Utopian socialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Western%20perceptions%20of%20popular%20leaders%20are%20shallowly%20thought%20of%20as%20demagoguery%20because%20true%20democracy%20is%20hard%20to%20fathom/" class="md-nav__link">
+        Western perceptions of popular leaders are shallowly thought of as demagoguery because true democracy is hard to fathom
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/Zettelkasten%20Workflow/" class="md-nav__link">
+        Zettelkasten Workflow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/benefits%20of%20communism/" class="md-nav__link">
+        Benefits of communism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/benefits%20to%20workers%20in%20the%20core%20were%20concessions%20made%20in%20fear%20of%20the%20Bolshevik%20revolution/" class="md-nav__link">
+        benefits to workers in the core were concessions made in fear of the Bolshevik revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/student%20loan%20debt/" class="md-nav__link">
+        Student loan debt
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/things%20a%20sincere%20leader%20or%20party%20could%20work%20for/" class="md-nav__link">
+        Things a sincere leader or party could work for
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Notes/workers%20in%20the%20imperial%20core%20benefit%20from%20imperialism/" class="md-nav__link">
+        Workers in the imperial core benefit from imperialism
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Sources
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Sources
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+          Articles
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_1">
+          <span class="md-nav__icon md-icon"></span>
+          Articles
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/A%20History%20of%20Empire%20Without%20Empire/" class="md-nav__link">
+        A History of Empire Without Empire
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/America%27s%20national%20myth%20is%20an%20insult%20to%20the%20victims%20of%20the%20British%20Empire/" class="md-nav__link">
+        America's national myth is an insult to the victims of the British Empire
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Austerity%2012%20Myths%20Exposed/" class="md-nav__link">
+        Austerity 12 Myths Exposed
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Calling%20Putin%20%E2%80%98Hitler%E2%80%99%20to%20Smear%20Diplomacy%20as%20%E2%80%98Appeasement%E2%80%99/" class="md-nav__link">
+        Calling Putin ‘Hitler’ to Smear Diplomacy as ‘Appeasement’
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Concentrate%20All%20Our%20Strength%20Against%20the%20Principle%20Enemy/" class="md-nav__link">
+        Concentrate All Our Strength Against the Principle Enemy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Contradiction%20the%20key%20to%20understanding%20sinification%20of%20Marxism/" class="md-nav__link">
+        Contradiction the key to understanding sinification of Marxism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Creative%20Chaos%20How%20U.S.%20Planners%20Sparked%20the%20Anti-Government%20Protests%20of%20the%20So-Called%20Arab%20Spring%20in%20Syria/" class="md-nav__link">
+        Creative Chaos How U.S. Planners Sparked the Anti Government Protests of the So Called Arab Spring in Syria
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Debunking%20%E2%80%98But%20Bitcoin%20is%20like%20the%20early%20Internet%21%E2%80%99/" class="md-nav__link">
+        Debunking ‘But Bitcoin is like the early Internet!’
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Democracy%20on%20the%20ballot%20%E2%80%93%20Communist%20Party%20USA/" class="md-nav__link">
+        Democracy on the ballot – Communist Party USA
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Demystifying%20the%20Chinese%20Social%20Credit%20System/" class="md-nav__link">
+        Demystifying the Chinese Social Credit System
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Discourse%20on%20Colonialism%20%281955%29/" class="md-nav__link">
+        Discourse on Colonialism (1955)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Domenico%20Losurdo%20interviewed%20by%20Opera%20Magazine%20%282017%29/" class="md-nav__link">
+        Domenico Losurdo interviewed by Opera Magazine (2017)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Expropriation%20and%20Exploitation%20in%20Racialized%20Capitalism%20-%20A%20Reply%20to%20Michael%20Dawson/" class="md-nav__link">
+        Expropriation and Exploitation in Racialized Capitalism   A Reply to Michael Dawson
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Flight%20from%20History%20The%20Communist%20Movement%20between%20Self-Criticism%20and%20Self-Contempt%20%281999%29/" class="md-nav__link">
+        Flight from History The Communist Movement between Self Criticism and Self Contempt (1999)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Is%20China%20Socialist/" class="md-nav__link">
+        Is China Socialist
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Lenin%2C%20The%20Collapse%20of%20the%20Second%20International/" class="md-nav__link">
+        Lenin, The Collapse of the Second International
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Marx%27s%20Critique%20of%20Enlightenment%20Humanism/" class="md-nav__link">
+        Marx's Critique of Enlightenment Humanism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Marxism%20in%20Africa%20%281975%29/" class="md-nav__link">
+        Marxism in Africa (1975)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/NATO%20and%20the%20Long%20War%20on%20the%20Third%20World/" class="md-nav__link">
+        NATO and the Long War on the Third World
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Perpetrator%20or%20victim%20Russia%20and%20contemporary%20imperialism/" class="md-nav__link">
+        Perpetrator or victim Russia and contemporary imperialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Quantifying%20National%20Responsibility%20for%20Climate%20Breakdown/" class="md-nav__link">
+        Quantifying National Responsibility for Climate Breakdown
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Really%20Existing%20Fascism/" class="md-nav__link">
+        Really Existing Fascism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Reflections%20on%20Lenin%E2%80%99s%20Dialectics/" class="md-nav__link">
+        Reflections on Lenin’s Dialectics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Russia%20A%20New%20Imperialist%20Power/" class="md-nav__link">
+        Russia A New Imperialist Power
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Serve%20the%20People%20-%20The%20Eradication%20of%20Extreme%20Poverty%20in%20China/" class="md-nav__link">
+        Serve the People   The Eradication of Extreme Poverty in China
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Socialism%20or%20reformism/" class="md-nav__link">
+        Socialism or reformism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Special%20Military%20Operation%20-%20Ukraine/" class="md-nav__link">
+        Special Military Operation   Ukraine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Supplementary%20Theses%20On%20The%20National%20And%20Colonial%20Question/" class="md-nav__link">
+        Supplementary Theses On The National And Colonial Question
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/The%20Myth%20of%20%E2%80%9CRussian%20Imperialism%E2%80%9D%20in%20defence%20of%20Lenin%E2%80%99s%20analyses/" class="md-nav__link">
+        The Myth of “Russian Imperialism” in defence of Lenin’s analyses
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/The%20Problem%20with%20the%20Indian%20Left/" class="md-nav__link">
+        The Problem with the Indian Left
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/The%20Punishment%20Bureaucracy%20-%20How%20to%20Think%20About%20Criminal%20Justice%20Reform/" class="md-nav__link">
+        The Punishment Bureaucracy   How to Think About Criminal Justice Reform
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/The%20party%20we%20must%20become%20%E2%80%93%20Communist%20Party%20USA/" class="md-nav__link">
+        The party we must become – Communist Party USA
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/The%20truth%20about%20the%20Soviet%20Gulag%20-%20surprisingly%20revealed%20by%20the%20CIA/" class="md-nav__link">
+        The truth about the Soviet Gulag   surprisingly revealed by the CIA
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/What%20Was%20Primitive%20Accumulation%20Reconstructing%20the%20Origin%20of%20a%20Critical%20Concept%20%282017%29/" class="md-nav__link">
+        What Was Primitive Accumulation Reconstructing the Origin of a Critical Concept (2017)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/What%20is%20to%20be%20done/" class="md-nav__link">
+        What is to be done
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Why%20Marxism/" class="md-nav__link">
+        Why Marxism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Articles/Xinjiang%20-%20Understanding%20Complexity%2C%20Building%20Peace/" class="md-nav__link">
+        Xinjiang   Understanding Complexity, Building Peace
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+          Books
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Books
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/The%20Life%20Of%20Muhammad%20by%20Ibn%20Ishaq/" class="md-nav__link">
+        The Life Of Muhammad by Ibn Ishaq
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2_2" id="__nav_4_2_2_label" tabindex="0">
+          A. Summaries
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          A. Summaries
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/A.%20Summaries/Class%20Struggle%20and%20Contradictions%20Among%20the%20People/" class="md-nav__link">
+        Class Struggle and Contradictions Among the People
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/A.%20Summaries/Socialism%20-%20Utopian%20and%20Scientific/" class="md-nav__link">
+        Socialism   Utopian and Scientific
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2_3" id="__nav_4_2_3_label" tabindex="0">
+          Book highlights
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_2_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          Book highlights
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/1491%20%28Second%20Edition%29%20New%20Revelations%20of%20the%20Americas%20Before%20Columbus/" class="md-nav__link">
+        1491
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/A%20Mind%20For%20Numbers/" class="md-nav__link">
+        A Mind For Numbers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/A%20Nation%20Unmade%20by%20War/" class="md-nav__link">
+        A Nation Unmade by War
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/A%20Peoples%20Guide%20to%20Capitalism/" class="md-nav__link">
+        A Peoples Guide to Capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/A%20Peoples%20History%20of%20the%20United%20States/" class="md-nav__link">
+        A Peoples History of the United States
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/A%20Struggle%20for%20Power%20The%20American%20Revolution/" class="md-nav__link">
+        A Struggle for Power
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/A%20Theory%20of%20Imperialism/" class="md-nav__link">
+        A Theory of Imperialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Acing%20the%20Interview/" class="md-nav__link">
+        Acing the Interview
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Against%20Empire/" class="md-nav__link">
+        Against Empire
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/American%20Exceptionalism%20and%20American%20Innocence/" class="md-nav__link">
+        American Exceptionalism and American Innocence
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/American%20Holocaust%20Columbus%20and%20the%20Conquest%20of%20the%20New%20World%20%28Ideologies%20of%20Desire%29/" class="md-nav__link">
+        American Holocaust
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/American%20Holocaust/" class="md-nav__link">
+        American Holocaust
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/American%20War%20Machine/" class="md-nav__link">
+        American War Machine
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Americas%20Addiction%20to%20Terrorism/" class="md-nav__link">
+        Americas Addiction to Terrorism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Americas%20Secret%20War/" class="md-nav__link">
+        Americas Secret War
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/An%20Islamic%20Worldview/" class="md-nav__link">
+        An Islamic Worldview
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Another%20View%20of%20Stalin/" class="md-nav__link">
+        Another View of Stalin
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Attack%20of%20the%2050%20Foot%20Blockchain%20Bitcoin%2C%20Blockchain%2C%20Ethereum%20%26%20Smart%20Contracts/" class="md-nav__link">
+        Attack of the 50 Foot Blockchain
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Barking%20Up%20the%20Wrong%20Tree/" class="md-nav__link">
+        Barking Up the Wrong Tree
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Between%20Capitalism%20and%20Community/" class="md-nav__link">
+        Between Capitalism and Community
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Beyond%20Behaviors/" class="md-nav__link">
+        Beyond Behaviors
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Billions%20%26%20Billions/" class="md-nav__link">
+        Billions & Billions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Black%20against%20Empire/" class="md-nav__link">
+        Black against Empire
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Brothers/" class="md-nav__link">
+        Brothers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Bullshit%20Jobs/" class="md-nav__link">
+        Bullshit Jobs
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Burying%20the%20Lead/" class="md-nav__link">
+        Burying the Lead
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Can%20You%20Learn%20to%20Be%20Lucky/" class="md-nav__link">
+        Can You Learn to Be Lucky?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Can%20the%20Working%20Class%20Change%20the%20World/" class="md-nav__link">
+        Can the Working Class Change the World?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Capital%20and%20Imperialism/" class="md-nav__link">
+        Capital and Imperialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Capitalism%20Hits%20the%20Fan/" class="md-nav__link">
+        Capitalism Hits the Fan
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Capitalism/" class="md-nav__link">
+        Capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Capitalist%20Realism/" class="md-nav__link">
+        Capitalist Realism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/China%20Horizon%2C%20The/" class="md-nav__link">
+        China Horizon, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/China%20Wave%2C%20The/" class="md-nav__link">
+        China Wave, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Class%20Struggle/" class="md-nav__link">
+        Class Struggle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Classified%20Woman-The%20Sibel%20Edmonds%20Story/" class="md-nav__link">
+        Classified Woman-The Sibel Edmonds Story
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Cocaine%20Politics/" class="md-nav__link">
+        Cocaine Politics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Collapse/" class="md-nav__link">
+        Collapse
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Complex%20PTSD/" class="md-nav__link">
+        Complex PTSD
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Computer%20Age%20Statistical%20Inference/" class="md-nav__link">
+        Computer Age Statistical Inference
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Contrary%20Notions/" class="md-nav__link">
+        Contrary Notions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Controlling%20People/" class="md-nav__link">
+        Controlling People
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Counter-Revolution%20of%201776%2C%20The%20Slave%20Resistance%20and%20the%20Origins%20of%20the%20United%20States%20of%20America/" class="md-nav__link">
+        Counter-Revolution of 1776, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Crossing%20the%20Rubicon/" class="md-nav__link">
+        Crossing the Rubicon
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Crystallography%20Made%20Crystal%20Clear/" class="md-nav__link">
+        Crystallography Made Crystal Clear
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Dawning%20of%20the%20Apocalypse%2C%20The%20The%20Roots%20of%20Slavery%2C%20White%20Supremacy%2C%20Settler%20Colonialism%2C%20and%20Capitalism%20in%20the%20Long%20Sixteenth%20Century/" class="md-nav__link">
+        Dawning of the Apocalypse, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Decisive/" class="md-nav__link">
+        Decisive
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Decoding%20The%20QURAN%20%28A%20Unique%20Sufi%20Interpretation%29/" class="md-nav__link">
+        Decoding The QURAN
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Decoding%20The%20Quran/" class="md-nav__link">
+        Decoding The Quran
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Deconstructing%20the%20Syrian%20War/" class="md-nav__link">
+        Deconstructing the Syrian War
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Defending%20Mu%E1%B8%A5ammad%20in%20Modernity/" class="md-nav__link">
+        Defending Muḥammad in Modernity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Democracy%20Incorporated/" class="md-nav__link">
+        Democracy Incorporated
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Democracy%20at%20Work/" class="md-nav__link">
+        Democracy at Work
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Destiny%20Disrupted/" class="md-nav__link">
+        Destiny Disrupted
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Destroying%20Yemen/" class="md-nav__link">
+        Destroying Yemen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Destroying%20to%20Replace%20Settler%20Genocides%20of%20Indigenous%20Peoples%20%28Critical%20Themes%20in%20World%20History%29/" class="md-nav__link">
+        Destroying to Replace
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Difficult%20Conversations/" class="md-nav__link">
+        Difficult Conversations
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Don%E2%80%99t%20Go%20To%20Law%20School/" class="md-nav__link">
+        Don’t Go To Law School
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Ego%20Is%20the%20Enemy/" class="md-nav__link">
+        Ego Is the Enemy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Emotional%20Blackmail/" class="md-nav__link">
+        Emotional Blackmail
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Euclid%20and%20Jesus/" class="md-nav__link">
+        Euclid and Jesus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Eurocentrism/" class="md-nav__link">
+        Eurocentrism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Extreme%20Productivity/" class="md-nav__link">
+        Extreme Productivity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Face%20of%20Imperialism/" class="md-nav__link">
+        Face of Imperialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Failed%20States/" class="md-nav__link">
+        Failed States
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Faster%20Than%20Normal/" class="md-nav__link">
+        Faster Than Normal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Finish%20What%20You%20Start/" class="md-nav__link">
+        Finish What You Start
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Focused%20Forward/" class="md-nav__link">
+        Focused Forward
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Fools%20Crusade/" class="md-nav__link">
+        Fools Crusade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Four%20Arguments%20for%20the%20Elimination%20of%20Television/" class="md-nav__link">
+        Four Arguments for the Elimination of Television
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/France%27s%20Yellow%20Vests%20Western%20Repression%20of%20the%20West%27s%20Best%20Values/" class="md-nav__link">
+        Frances Yellow Vests
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Futurability/" class="md-nav__link">
+        Futurability
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Genghis%20Khan%20and%20the%20Making%20of%20the%20Modern%20World/" class="md-nav__link">
+        Genghis Khan and the Making of the Modern World
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Geopolitics%20For%20Dummies/" class="md-nav__link">
+        Geopolitics For Dummies
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Get%20Out%20of%20Your%20Mind%20and%20Into%20Your%20Life/" class="md-nav__link">
+        Get Out of Your Mind and Into Your Life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Ghosts%20of%20My%20Life/" class="md-nav__link">
+        Ghosts of My Life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Gods%20Crucible/" class="md-nav__link">
+        Gods Crucible
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Healing%20from%20Hidden%20Abuse/" class="md-nav__link">
+        Healing from Hidden Abuse
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Health%20Care%20Under%20the%20Knife/" class="md-nav__link">
+        Health Care Under the Knife
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Hidden%20History/" class="md-nav__link">
+        Hidden History
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Hidden%20Structure%20of%20Violence%2C%20The%20Who%20Benefits%20from%20Global%20Violence%20and%20War/" class="md-nav__link">
+        Hidden Structure of Violence, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Histories%20of%20Racial%20Capitalism/" class="md-nav__link">
+        Histories of Racial Capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/History%20as%20Mystery/" class="md-nav__link">
+        History as Mystery
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/How%20Europe%20Underdeveloped%20Africa/" class="md-nav__link">
+        How Europe Underdeveloped Africa
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/How%20To%20Be%20The%20Most%20Engaging%20Person%20In%20The%20Room...%20Every%20Time/" class="md-nav__link">
+        How To Be The Most Engaging Person In The Room... Every Time
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/How%20To%20Tame%20Your%20PhD/" class="md-nav__link">
+        How To Tame Your PhD
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/How%20to%20Be%20an%20Antiracist/" class="md-nav__link">
+        How to Be an Antiracist
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/How%20to%20Read%20a%20Book/" class="md-nav__link">
+        How to Read a Book
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/How%20to%20Teach%20Your%20Baby%20to%20Read/" class="md-nav__link">
+        How to Teach Your Baby to Read
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Immovable%20Object/" class="md-nav__link">
+        Immovable Object
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Imperialism%20in%20the%20Twenty-First%20Century/" class="md-nav__link">
+        Imperialism in the Twenty-First Century
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Imperialism%2C%20the%20Highest%20Stage%20of%20Capitalism/" class="md-nav__link">
+        Imperialism, the Highest Stage of Capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/In%20Defense%20of%20Looting/" class="md-nav__link">
+        In Defense of Looting
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/In%20Sheeps%20Clothing/" class="md-nav__link">
+        In Sheeps Clothing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/In%20the%20Shadows%20of%20the%20American%20Century/" class="md-nav__link">
+        In the Shadows of the American Century
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/In%20the%20Spirit%20of%20Crazy%20Horse/" class="md-nav__link">
+        In the Spirit of Crazy Horse
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Insight/" class="md-nav__link">
+        Insight
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Introduction%20to%20Proteins/" class="md-nav__link">
+        Introduction to Proteins
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Invisible%20Handcuffs%20of%20Capitalism%2C%20The%20How%20Market%20Tyranny%20Stifles%20the%20Economy%20by%20Stunting%20Workers/" class="md-nav__link">
+        Invisible Handcuffs of Capitalism, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Islam%20and%20the%20Plight%20of%20Modern%20Man/" class="md-nav__link">
+        Islam and the Plight of Modern Man
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Islamophobia%20and%20the%20Politics%20of%20Empire/" class="md-nav__link">
+        Islamophobia and the Politics of Empire
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/JFK%20-%20An%20American%20Coup/" class="md-nav__link">
+        JFK - An American Coup
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/JFK%20and%20the%20Unspeakable/" class="md-nav__link">
+        JFK and the Unspeakable
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Killing%20Hope/" class="md-nav__link">
+        Killing Hope
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Late%20Victorian%20Holocausts%20El%20Ni%C3%B1o%20Famines%20and%20the%20Making%20of%20the%20Third%20World/" class="md-nav__link">
+        Late Victorian Holocausts
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Liberal%20Virus%2C%20The%20Permanent%20War%20and%20the%20Americanization%20of%20the%20World/" class="md-nav__link">
+        Liberal Virus, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Liberalism/" class="md-nav__link">
+        Liberalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Lies%20My%20Teacher%20Told%20Me/" class="md-nav__link">
+        Lies My Teacher Told Me
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Life%20Inc/" class="md-nav__link">
+        Life Inc.
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Life/" class="md-nav__link">
+        Life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Lost%20Connections/" class="md-nav__link">
+        Lost Connections
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Made%20to%20Stick/" class="md-nav__link">
+        Made to Stick
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Making%20the%20Grade%20with%20ADD/" class="md-nav__link">
+        Making the Grade with ADD
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Manufacturing%20Consent/" class="md-nav__link">
+        Manufacturing Consent
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Manufacturing%20Discontent/" class="md-nav__link">
+        Manufacturing Discontent
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Marxism%20Against%20Postmodernism%20in%20Educational%20Theory/" class="md-nav__link">
+        Marxism Against Postmodernism in Educational Theory
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Marxism%20and%20the%20Philosophy%20of%20Science%20A%20Critical%20History%20%28Radical%20Thinkers%29/" class="md-nav__link">
+        Marxism and the Philosophy of Science
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/McKinsey%20Mind/" class="md-nav__link">
+        McKinsey Mind
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Mindset/" class="md-nav__link">
+        Mindset
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Misquoting%20Muhammad/" class="md-nav__link">
+        Misquoting Muhammad
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Mistreated/" class="md-nav__link">
+        Mistreated
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Modern%20Imperialism%2C%20Monopoly%20Finance%20Cap%20Monopoly%20Capital%20and%20Marx%27s%20Law%20of%20Value/" class="md-nav__link">
+        Modern Imperialism, Monopoly Finance Cap
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Modern%20Imperialism%2C%20Monopoly%20Finance%20Capital%2C%20and%20Marxs%20Law%20of%20Value/" class="md-nav__link">
+        Modern Imperialism, Monopoly Finance Capital, and Marxs Law of Value
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Muhammad-1655065600605/" class="md-nav__link">
+        Muhammad
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Muhammad-1655078277609/" class="md-nav__link">
+        Muhammad
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Muhammad/" class="md-nav__link">
+        Muhammad
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Night-Vision/" class="md-nav__link">
+        Night-Vision
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/No%20God%20But%20Gain/" class="md-nav__link">
+        No God But Gain
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/No%20god%20but%20God/" class="md-nav__link">
+        No god but God
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Noise/" class="md-nav__link">
+        Noise
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/October%201917%20Revolution%20A%20Century%20Later/" class="md-nav__link">
+        October 1917 Revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/On%20Disciplining%20the%20Self/" class="md-nav__link">
+        On Disciplining the Self
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/On%20Earth%20Were%20Briefly%20Gorgeous/" class="md-nav__link">
+        On Earth Were Briefly Gorgeous
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Operation%20Gladio/" class="md-nav__link">
+        Operation Gladio
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Operations%20Management%20in%20Healthcare/" class="md-nav__link">
+        Operations Management in Healthcare
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Overcoming%20Intimacy%20Anxiety/" class="md-nav__link">
+        Overcoming Intimacy Anxiety
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Patriots%2C%20Traitors%20and%20Empires/" class="md-nav__link">
+        Patriots, Traitors and Empires
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Political%20Econ%20of%20Growth/" class="md-nav__link">
+        Political Econ of Growth
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Poor%20Peoples%20Movements/" class="md-nav__link">
+        Poor Peoples Movements
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Power%20and%20Primacy%20Abridged%20and%20Updated%20Edition/" class="md-nav__link">
+        Power and Primacy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Power/" class="md-nav__link">
+        Power
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Powerful%20Phrases%20for%20Successful%20Interviews/" class="md-nav__link">
+        Powerful Phrases for Successful Interviews
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Present%20Shock/" class="md-nav__link">
+        Present Shock
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Problem%20of%20the%20Media%2C%20The%20U.S.%20Communication%20Politics%20in%20the%20Twenty-First%20Century/" class="md-nav__link">
+        Problem of the Media, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Program%20or%20Be%20Programmed/" class="md-nav__link">
+        Program or Be Programmed
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Prolonging%20the%20Agony/" class="md-nav__link">
+        Prolonging the Agony
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Propaganda%20Blitz/" class="md-nav__link">
+        Propaganda Blitz
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Raids%20on%20the%20Unspeakable/" class="md-nav__link">
+        Raids on the Unspeakable
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Rebooting%20Democracy/" class="md-nav__link">
+        Rebooting Democracy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Reconstruction%20Updated%20Edition/" class="md-nav__link">
+        Reconstruction Updated Edition
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Reforming%20Modernity/" class="md-nav__link">
+        Reforming Modernity
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Restating%20Orientalism/" class="md-nav__link">
+        Restating Orientalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Revolution%20and%20Counter-Revolution%20in%20Ancient%20India/" class="md-nav__link">
+        Revolution and Counter-Revolution in Ancient India
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Rich%20Media%2C%20Poor%20Democracy/" class="md-nav__link">
+        Rich Media, Poor Democracy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/River%20of%20Dark%20Dreams%20Slavery%20and%20Empire%20in%20the%20Cotton%20Kingdom/" class="md-nav__link">
+        River of Dark Dreams
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Rogue%20State/" class="md-nav__link">
+        Rogue State
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Science%20of%20Coercion/" class="md-nav__link">
+        Science of Coercion
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Scorpion%20King/" class="md-nav__link">
+        Scorpion King
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Secret%20Affairs/" class="md-nav__link">
+        Secret Affairs
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Secrets%20to%20Winning%20at%20Office%20Politics/" class="md-nav__link">
+        Secrets to Winning at Office Politics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Settlers/" class="md-nav__link">
+        Settlers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Slaughterhouse-Five/" class="md-nav__link">
+        Slaughterhouse-Five
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Slavery%20and%20Islam/" class="md-nav__link">
+        Slavery and Islam
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Socialism%20Betrayed/" class="md-nav__link">
+        Socialism Betrayed
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Stalin%20-%20The%20History%20and%20Critique%20of%20a%20Black%20Legend/" class="md-nav__link">
+        Stalin   The History and Critique of a Black Legend
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Stalin%20Losurdo/" class="md-nav__link">
+        Stalin Losurdo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Stasi%20State%20or%20Socialist%20Paradise%20The%20German%20Democratic%20Republic%20and%20What%20Became%20of%20It/" class="md-nav__link">
+        Stasi State or Socialist Paradise?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/State%20and%20Revolution/" class="md-nav__link">
+        State and Revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Stillness%20Is%20the%20Key/" class="md-nav__link">
+        Stillness Is the Key
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Success%20and%20Luck/" class="md-nav__link">
+        Success and Luck
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Surveillance%20Valley/" class="md-nav__link">
+        Surveillance Valley
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Switch/" class="md-nav__link">
+        Switch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/THE%20PROPHET%20OF%20MERCY%20MUHAMMAD%2C%20Scenes%20From%20His%20Life/" class="md-nav__link">
+        THE PROPHET OF MERCY MUHAMMAD, Scenes From His Life
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Taming%20Your%20Outer%20Child/" class="md-nav__link">
+        Taming Your Outer Child
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Teaming/" class="md-nav__link">
+        Teaming
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%201%25%20Rule/" class="md-nav__link">
+        The 1% Rule
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%2048%20Laws%20of%20Power/" class="md-nav__link">
+        The 48 Laws of Power
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Abandonment%20Recovery%20Workbook/" class="md-nav__link">
+        The Abandonment Recovery Workbook
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Anti-Capitalist%20Chronicles/" class="md-nav__link">
+        The Anti-Capitalist Chronicles
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Anxiety%20Toolkit/" class="md-nav__link">
+        The Anxiety Toolkit
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Art%20of%20Taking%20Action/" class="md-nav__link">
+        The Art of Taking Action
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Beginning%20or%20the%20End/" class="md-nav__link">
+        The Beginning or the End
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Book%20of%20Why/" class="md-nav__link">
+        The Book of Why
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Boy%20Who%20Knew%20Too%20Much/" class="md-nav__link">
+        The Boy Who Knew Too Much
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Burnout%20Society/" class="md-nav__link">
+        The Burnout Society
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Code%20of%20the%20Extraordinary%20Mind/" class="md-nav__link">
+        The Code of the Extraordinary Mind
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Cold%20War%20and%20its%20Origins%2C%201917-1960/" class="md-nav__link">
+        The Cold War and its Origins, 1917-1960
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Color%20of%20Law/" class="md-nav__link">
+        The Color of Law
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Cosmic%20Landscape/" class="md-nav__link">
+        The Cosmic Landscape
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Counter-Revolution%20of%201776/" class="md-nav__link">
+        The Counter-Revolution of 1776
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Crash%20of%20Flight%203804/" class="md-nav__link">
+        The Crash of Flight 3804
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Cult%20of%20Statistical%20Significance/" class="md-nav__link">
+        The Cult of Statistical Significance
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Culture%20Struggle/" class="md-nav__link">
+        The Culture Struggle
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Dawning%20of%20the%20Apocalypse/" class="md-nav__link">
+        The Dawning of the Apocalypse
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20DevOps%20Handbook/" class="md-nav__link">
+        The DevOps Handbook
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Devils%20Chessboard/" class="md-nav__link">
+        The Devils Chessboard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Divide/" class="md-nav__link">
+        The Divide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20End%20of%20Economics/" class="md-nav__link">
+        The End of Economics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20End%20of%20the%20Beginning/" class="md-nav__link">
+        The End of the Beginning
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Fall%20of%20the%20Ottomans/" class="md-nav__link">
+        The Fall of the Ottomans
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Five%20Stages%20of%20Collapse/" class="md-nav__link">
+        The Five Stages of Collapse
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Formula%20The%20Universal%20Laws%20of%20Success/" class="md-nav__link">
+        The Formula
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Garden%20of%20Truth/" class="md-nav__link">
+        The Garden of Truth
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Global%20Perspective/" class="md-nav__link">
+        The Global Perspective
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Global%20Police%20State/" class="md-nav__link">
+        The Global Police State
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Goal/" class="md-nav__link">
+        The Goal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Half%20Has%20Never%20Been%20Told/" class="md-nav__link">
+        The Half Has Never Been Told
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Hidden%20Structure%20of%20Violence/" class="md-nav__link">
+        The Hidden Structure of Violence
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Highly%20Sensitive%20Person/" class="md-nav__link">
+        The Highly Sensitive Person
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Image/" class="md-nav__link">
+        The Image
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Imperial%20Mode%20of%20Living/" class="md-nav__link">
+        The Imperial Mode of Living
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Implosion%20of%20Contemporary%20Capitalism/" class="md-nav__link">
+        The Implosion of Contemporary Capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Impossible%20State/" class="md-nav__link">
+        The Impossible State
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Invention%20of%20Capitalism/" class="md-nav__link">
+        The Invention of Capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Invisible%20Handcuffs%20of%20Capitalism/" class="md-nav__link">
+        The Invisible Handcuffs of Capitalism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Jakarta%20Method/" class="md-nav__link">
+        The Jakarta Method
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Job%20Search%20Solution/" class="md-nav__link">
+        The Job Search Solution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Journey%20from%20Abandonment%20to%20Healing/" class="md-nav__link">
+        The Journey from Abandonment to Healing
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Koch%20Brothers/" class="md-nav__link">
+        The Koch Brothers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Last%20Mughal/" class="md-nav__link">
+        The Last Mughal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Laws%20of%20Human%20Nature/" class="md-nav__link">
+        The Laws of Human Nature
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Leaderless%20Revolution/" class="md-nav__link">
+        The Leaderless Revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Liberal%20Virus/" class="md-nav__link">
+        The Liberal Virus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Limits%20of%20Power/" class="md-nav__link">
+        The Limits of Power
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Lives%20of%20Muhammad/" class="md-nav__link">
+        The Lives of Muhammad
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Myth%20of%20Laziness/" class="md-nav__link">
+        The Myth of Laziness
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Obstacle%20Is%20the%20Way/" class="md-nav__link">
+        The Obstacle Is the Way
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Other%20Slavery%20The%20Uncovered%20Story%20of%20Indian%20Enslavement%20in%20America/" class="md-nav__link">
+        The Other Slavery
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Peoples%20Republic%20of%20Walmart/" class="md-nav__link">
+        The Peoples Republic of Walmart
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Principal%20Contradiction/" class="md-nav__link">
+        The Principal Contradiction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Problem%20of%20the%20Media/" class="md-nav__link">
+        The Problem of the Media
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Prophets%20Heir/" class="md-nav__link">
+        The Prophets Heir
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Public%20Option/" class="md-nav__link">
+        The Public Option
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Quran/" class="md-nav__link">
+        The Quran
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Red%20Queen/" class="md-nav__link">
+        The Red Queen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Russian%20Revolution/" class="md-nav__link">
+        The Russian Revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Sealed%20Nectar%20%20Biography%20of%20Prophet%20Muhammad/" class="md-nav__link">
+        The Sealed Nectar | Biography of Prophet Muhammad
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Secret%20History%20of%20the%20American%20Empire/" class="md-nav__link">
+        The Secret History of the American Empire
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Selfish%20Gene/" class="md-nav__link">
+        The Selfish Gene
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Sleepwalkers/" class="md-nav__link">
+        The Sleepwalkers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Structural%20Crisis%20of%20Capital/" class="md-nav__link">
+        The Structural Crisis of Capital
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Unknown%20Cultural%20Revolution/" class="md-nav__link">
+        The Unknown Cultural Revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Venture%20of%20Islam%2C%20Volume%201%20The%20Classical%20Age%20of%20Islam/" class="md-nav__link">
+        The Venture of Islam, Volume 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Verbally%20Abusive%20Man%20-%20Can%20He%20Change/" class="md-nav__link">
+        The Verbally Abusive Man - Can He Change?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Verbally%20Abusive%20Relationship%2C%20Expanded%20Third%20Edition/" class="md-nav__link">
+        The Verbally Abusive Relationship, Expanded Third Edition
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20Wages%20of%20Destruction/" class="md-nav__link">
+        The Wages of Destruction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/The%20War%20Conspiracy/" class="md-nav__link">
+        The War Conspiracy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Theory%20of%20Capital%20Development/" class="md-nav__link">
+        Theory of Capital Development
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/There%20is%20Power%20in%20a%20Union/" class="md-nav__link">
+        There is Power in a Union
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/They%20Thought%20They%20Were%20Free/" class="md-nav__link">
+        They Thought They Were Free
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/They%20Were%20Soldiers/" class="md-nav__link">
+        They Were Soldiers
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Think%20Again/" class="md-nav__link">
+        Think Again
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Thinking%2C%20Fast%20and%20Slow/" class="md-nav__link">
+        Thinking, Fast and Slow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Throwing%20Rocks%20at%20the%20Google%20Bus/" class="md-nav__link">
+        Throwing Rocks at the Google Bus
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/To%20Sell%20Is%20Human/" class="md-nav__link">
+        To Sell Is Human
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Tomorrow%2C%20the%20World/" class="md-nav__link">
+        Tomorrow, the World
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Towards%20a%20New%20Socialism/" class="md-nav__link">
+        Towards a New Socialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Unanswered%20Questions/" class="md-nav__link">
+        Unanswered Questions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Unbeatable%20Resumes/" class="md-nav__link">
+        Unbeatable Resumes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Understanding%20Marxism/" class="md-nav__link">
+        Understanding Marxism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Understanding%20Socialism/" class="md-nav__link">
+        Understanding Socialism
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Unknown%20Cultural%20Revolution%2C%20The%20Life%20and%20Change%20in%20a%20Chinese%20Village/" class="md-nav__link">
+        Unknown Cultural Revolution, The
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Up%20from%20Slavery/" class="md-nav__link">
+        Up from Slavery
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Upstream/" class="md-nav__link">
+        Upstream
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Victory%20Over%20Verbal%20Abuse/" class="md-nav__link">
+        Victory Over Verbal Abuse
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Walking%20Away%20from%20Empire/" class="md-nav__link">
+        Walking Away from Empire
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/War%20Against%20the%20People/" class="md-nav__link">
+        War Against the People
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/War%20and%20Revolution/" class="md-nav__link">
+        War and Revolution
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Washington%20Bullets/" class="md-nav__link">
+        Washington Bullets
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Washington%27s%20Long%20War%20on%20Syria/" class="md-nav__link">
+        Washingtons Long War on Syria
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/We%20Own%20the%20Future/" class="md-nav__link">
+        We Own the Future
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Weapons%20of%20Mass%20Instruction/" class="md-nav__link">
+        Weapons of Mass Instruction
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/What%20do%20we%20do%20about%20inequality/" class="md-nav__link">
+        What do we do about inequality?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/When%20Google%20Met%20WikiLeaks/" class="md-nav__link">
+        When Google Met WikiLeaks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Why%20Are%20We%20Yelling/" class="md-nav__link">
+        Why Are We Yelling?
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/World%20War%20in%20Syria%20A%20Global%20Conflict%20Waged%20on%20Middle%20Eastern%20Battlefields/" class="md-nav__link">
+        World War in Syria
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/You%20Are%20Here/" class="md-nav__link">
+        You Are Here
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/Sources/Books/Book%20highlights/Zealot/" class="md-nav__link">
+        Zealot
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+  <h1>404 - Not found</h1>
+
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "/", "features": [], "search": "/assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="/assets/javascripts/bundle.2a6f1dda.min.js"></script>
+      
+        <script src="/javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
