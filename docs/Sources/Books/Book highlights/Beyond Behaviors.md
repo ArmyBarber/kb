@@ -6,9 +6,9 @@ kindle-sync:
     Children's Behavioral Challenges
   author: Mona Delahooke
   asin: B07QFFQXVM
-  lastAnnotatedDate: '2021-04-14'
+  lastAnnotatedDate: '2023-04-30'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61ugzoJYpSL._SY160.jpg'
-  highlightsCount: 8
+  highlightsCount: 9
 ---
 # Beyond Behaviors
 ## Metadata
@@ -41,5 +41,9 @@ Sometimes a person’s body and brain detect threat when the person is actually 
 
 ---
 A child who seems to be misbehaving is, in the process, adapting and surviving. Instead of viewing behaviors purely as difficulties we need to get rid of, it’s helpful to see them as forming an instructional manual for how to support each child’s nervous system. — location: [531](kindle://book?action=open&asin=B07QFFQXVM&location=531) ^ref-13239
+
+---
+
+Am I present with the child, attending to him or her singularly, and not distracted or multitasking?__________________ — location: [2108](kindle://book?action=open&asin=B07QFFQXVM&location=2108) ^ref-11674
 
 ---
