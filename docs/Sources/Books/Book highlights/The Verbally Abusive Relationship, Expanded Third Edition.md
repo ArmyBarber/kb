@@ -6,9 +6,9 @@ kindle-sync:
     it and how to respond
   author: Patricia Evans
   asin: B004GUS7OG
-  lastAnnotatedDate: '2021-04-16'
+  lastAnnotatedDate: '2023-04-29'
   bookImageUrl: 'https://m.media-amazon.com/images/I/810c0KSKGYL._SY160.jpg'
-  highlightsCount: 71
+  highlightsCount: 86
 ---
 # The Verbally Abusive Relationship, Expanded Third Edition
 ## Metadata
@@ -73,16 +73,65 @@ Noting this transition from verbal to physical abuse is important because the cl
 in Reality I walls are required. Distance is also required. Both walls and distance keep the “enemy” from getting too close. The verbal abuser, consciously or unconsciously, sees his partner as an enemy or certainly as a threat who must be controlled. Consequently, the verbal abuser may wage a kind of war with his words — usually unbeknown to, and not understood by, his partner. His words are his weapons, and these weapons are the categories of verbal abuse. — location: [1142](kindle://book?action=open&asin=B004GUS7OG&location=1142) ^ref-38206
 
 ---
+there must be more than the exchange of information. A relationship requires intimacy. Intimacy requires empathy. — location: [1151](kindle://book?action=open&asin=B004GUS7OG&location=1151) ^ref-3488
+
+---
 The verbal abuser who chooses to withhold can add a variety of flourishes and camouflages to his withholding, such as pretending not to hear, picking up something to look at while his partner is sharing something or watching television while saying, “Go ahead, I’m listening.” — location: [1180](kindle://book?action=open&asin=B004GUS7OG&location=1180) ^ref-50921
 
 ---
 “Why should I tell you if I like it; you’ll do what you want anyway.” — location: [1184](kindle://book?action=open&asin=B004GUS7OG&location=1184) ^ref-14530
 
 ---
+Functional information is, of course, important, but it cannot be the only form of communication — location: [1187](kindle://book?action=open&asin=B004GUS7OG&location=1187) ^ref-65492
+
+---
+Two other kinds of communication are also important. These are communications which engage another and communications which respond to another. — location: [1187](kindle://book?action=open&asin=B004GUS7OG&location=1187) ^ref-4410
+
+---
 This partner tried to explain to her mate that she simply had a different experience from him. He told her that both her experience and her feelings were wrong. She said that he was so angry she thought they must be wrong. — location: [1223](kindle://book?action=open&asin=B004GUS7OG&location=1223) ^ref-12251
 
 ---
 Critical statements made about you to others are abusive. These are “you” statements turned into “she” statements. Following are some examples: — location: [1319](kindle://book?action=open&asin=B004GUS7OG&location=1319) ^ref-49779
+
+---
+Criticism disguised as help or advice is abusive. — location: [1333](kindle://book?action=open&asin=B004GUS7OG&location=1333) ^ref-27453
+
+Some examples are more clear, others make me wonder about actual times of genuine suggestions. Just dont be an asshole?
+
+---
+Who asked you? Nobody asked your opinion. You always have to put in your — location: [1369](kindle://book?action=open&asin=B004GUS7OG&location=1369) ^ref-45484
+
+Often responses to intended neutral comments or potential advice. Not intended to judge
+
+---
+Everyone forgets what happened now and then. However, consistently forgetting interactions which have a great impact on another person is verbally abusive denial. — location: [1396](kindle://book?action=open&asin=B004GUS7OG&location=1396) ^ref-51005
+
+---
+I never said that. You’re making that all up. — location: [1411](kindle://book?action=open&asin=B004GUS7OG&location=1411) ^ref-5053
+
+---
+The partners of verbal abusers know that explaining what they really said, meant, or did has never brought an apology such as “Oh, I’m so sorry to have snapped, shouted, or yelled at you. Will you forgive me?” — location: [1426](kindle://book?action=open&asin=B004GUS7OG&location=1426) ^ref-46036
+
+---
+It is also important for the partner to fully realize that there is no “way she can be” to prevent the abuser from venting his anger on her. Speaking more gently, listening more attentively, being more supportive, more interesting, more learned, more fun, thinner, cuter, or classier — being more anything will not work. — location: [1431](kindle://book?action=open&asin=B004GUS7OG&location=1431) ^ref-15467
+
+---
+If the abuser were to admit that his partner were not the cause of his anger, he would have to face himself and his own feelings. In most cases, abusers are unwilling to do this. — location: [1440](kindle://book?action=open&asin=B004GUS7OG&location=1440) ^ref-4355
+
+---
+The verbal abuser’s anger is free-floating and irrational. It has nothing to do with the partner. It does, however, affect her deeply. — location: [1459](kindle://book?action=open&asin=B004GUS7OG&location=1459) ^ref-12615
+
+---
+As Ann put it, “He loves me. He just doesn’t like me.” — location: [1467](kindle://book?action=open&asin=B004GUS7OG&location=1467) ^ref-4765
+
+---
+For as long as he can deny his responsibility for his anger and can accuse his partner of causing it, the abuser can continue to maintain his equilibrium and to get a high at his partner’s expense. — location: [1480](kindle://book?action=open&asin=B004GUS7OG&location=1480) ^ref-64846
+
+---
+their mates feel good when they feel so hurt. — location: [1482](kindle://book?action=open&asin=B004GUS7OG&location=1482) ^ref-52838
+
+---
+In general the anger addict’s attitude is, “How can I be doing anything wrong when I feel so right?” — location: [1487](kindle://book?action=open&asin=B004GUS7OG&location=1487) ^ref-26609
 
 ---
 Abusive anger diminishes the partner’s desire for sexual intimacy. When this occurs, the abuser then accuses her of being uncaring and unfeeling, and she may think that something is wrong with her. — location: [1496](kindle://book?action=open&asin=B004GUS7OG&location=1496) ^ref-47474

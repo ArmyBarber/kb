@@ -31,3 +31,15 @@ What is fascism but colonialism at the very heart of traditionally colonialist c
 > The essence of man is no abstraction inherent in each single individual. In its reality it is the ensemble of social relations.
 
 ![[Pasted image 20230118133654.png]]
+
+"The weapon of criticism cannot, of course, replace criticism of the weapon, material force must be overthrown by material force; but theory also becomes a material force as soon as it has gripped the masses."
+-[Marx, A Contribution to the Critique of Hegel's Philosophy of Right 1844](https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm)
+
+"If there are no isolated phenomena in the world, if all phenomena are interconnected and interdependent, then it is clear that every social system and every social movement in history must be evaluated not from the standpoint of “eternal justice” or some other preconceived idea, as is not infrequently done by historians, but from the standpoint of the conditions which gave rise to that system or that social movement and with which they are connected."
+-[Dialectical and Historical Materialism](https://redsails.org/dialectical-and-historical-materialism/)
+
+"It does not follow from Marx’s words, however, that social ideas, theories, political views and political institutions are of no significance in the life of society, that they do not reciprocally affect social being, the development of the material conditions of the life of society. We have been speaking so far of the origin of social ideas, theories, views and political institutions, of the way they arise, of the fact that the spiritual life of society is a reflection of the conditions of its material life. As regards the significance of social ideas, theories, views and political institutions, as regards their role in history, historical materialism, far from denying them, stresses the important role and significance of these factors in the life of society, in its history."
+-[Dialectical and Historical Materialism](https://redsails.org/dialectical-and-historical-materialism/)
+
+"Theory becomes a material force as soon as it has gripped the masses."
+-[Marx, A Contribution to the Critique of Hegel's Philosophy of Right 1844](https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm)
