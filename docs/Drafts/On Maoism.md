@@ -1,6 +1,7 @@
 “Communism is for us not a state of affairs which is to be established, an ideal to which reality [will] have to adjust itself. We call communism the real movement which abolishes the present state of things. The conditions of this movement result from the premises now in existence.” -Karl Marx
 
 Outline:
+
 - no real movement will be perfect
 	- some things will be due to the limits of the situation
 	- genuine mistakes will also be made
@@ -15,6 +16,7 @@ Outline:
 	- Mao
 
 -Trots:
+
 - Claim to be adherents of Lenin but ardently opposed Stalin's actions (many of which are what Lenin would have most likely done)
 - They claim to uphold Marxist thought/practice up to some point after which everything is a betrayal/fall from grace etc. Notably, all their takes on important issues are awful - they are unable to examine concrete situations and instead presume imaginary roads should have instead been taken
 - In this regard, Maoists are no different - just a different cutoff date before which they accept decisions made by leaders in light of reality and after which everything is revisionist. This demonstrates a lack of ability to apply serious analysis to situations, instead dogmatically accepting certain things and rejecting others
@@ -28,6 +30,7 @@ So, what is the big picture of post Mao China?
 	Improved quality of life
 
 But what about the peoples wars? Who is fighting them? Thoughts:
+
 - Preparation for war is as important as fighting it (imagine USSR w/o Stalin's 5 year plans)
 - War is a matter of life and death, in which traditional freedoms are curtailed for the purpose of victory. China is at once criticized for not.. more openly fighting enemies, but at the same time, the discipline of the working class necessary to improve, develop, and survive is seen as an unforgivable exploitation
 - On imperialism - pre WWI most of world was carved up between a few powers
