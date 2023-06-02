@@ -4,9 +4,9 @@ kindle-sync:
   title: 'World War in Syria: A Global Conflict Waged on Middle Eastern Battlefields'
   author: A.B. Abrams
   asin: B09B18921H
-  lastAnnotatedDate: '2022-07-25'
+  lastAnnotatedDate: '2023-05-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71MYJqKnqkL._SY160.jpg'
-  highlightsCount: 109
+  highlightsCount: 111
 ---
 # World War in Syria
 ## Metadata
@@ -313,6 +313,12 @@ Evidence that Libyan civilians were ever in danger from their government was hig
 
 ---
 North Korea’s defence partnership with Syria dates back over half a century, with its armed forces, the Korean People’s Army (KPA), fighting alongside the Syrian Arab Army in all its major wars since the Six Day War in 1967 including the Yom Kippur and Lebanon wars. Bolstering Syria represented part of a broader Korean effort to push back against Western interests in the third world and was one of multiple KPA overseas operations conducted since the country had first gone to war with the United States in 1950. — location: [3021](kindle://book?action=open&asin=B09B18921H&location=3021) ^ref-43424
+
+---
+Within six months the UN refugee agency reported that more than 440,000 internally displaced Syrians and around 31,000 of those who had fled abroad had now returned home, — location: [6023](kindle://book?action=open&asin=B09B18921H&location=6023) ^ref-34664
+
+---
+the nature of the American bombing campaign, and in particular what appeared to be the intentional destruction of vital and very costly infrastructure which, unlike the Syrian Air Force and its partners, the U.S. made little effort to avoid damaging. — location: [6883](kindle://book?action=open&asin=B09B18921H&location=6883) ^ref-25415
 
 ---
 China, too, was a leading provider of economic assistance which would allow Syria to further withstand Western pressure, — location: [7613](kindle://book?action=open&asin=B09B18921H&location=7613) ^ref-62496
