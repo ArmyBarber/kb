@@ -108,3 +108,95 @@ The theme of modern China:
 "The three magic weapons not only significantly enlighten our revolutionary success but also shed light upon our personal success. I think people who want to succeed must first have an awareness of "united front" make more friends and fewer enemies handle all kinds of relationships properly and make good conditions for success. One also needs to have the awareness of "armed struggle". Be willing to take tough challenges and meet difficulties to create a solid capital for success. Finally, one also needs to be aware of "party building" that is to make up deficiencies bring out strong suits accumulate steadily and break forth vastly. Keep enriching oneself will create a strong subject for success"
 
 ### 2.3.4 Significance of new democratic revolution theory
+
+# Chapter 3 Socialist Transformation Theories
+
+## 3.1 Transition from New democraticism to socialism
+
+### 3.1.1 Why new democratic society was called a transitional society
+
+
+### 3.1.2 The changing attitude of the party on transition to socialism
+
+![[Pasted image 20230602225123.png]]
+
+Conception soon changed - economy picked up tremendously
+
+![[Pasted image 20230602225514.png]]
+
+Plan was conducting construction and transition at the same time
+10-15 years was given as estimate, based on experience of USSR
+
+### 3.1.3 Mao Zedong and Liu Shaoqi's agreement and disagreement over socialist transformation
+
+![[Pasted image 20230602225737.png]]
+
+![[Pasted image 20230602225809.png]]
+
+![[Pasted image 20230602225913.png]]
+
+- The disagreement b/w Mao and Liu was over specific policies, not between two lines
+	- After discussion w/in party, Liu gave up original views and supported Mao's
+
+
+### 3.1.4 Basic content of the general line during transitional period
+
+_Outline of Studying and Promoting the Party's General Line for the transition Period_ (December 1953)
+![[Pasted image 20230602230257.png]]
+
+General line should be beacon illuminating all work
+Aspects of this line:
+
+1. "fairly long period of time"
+2. "Socialist industrialization"
+3. "transformation in three aspects"
+
+2 and 3 form core of general line: summarized into "one localization (socialist industrialization) and three changes", latter being socialist transformation of:
+
+1. agriculture
+2. handicrafts
+3. capitalist industry and commerce
+
+![[Pasted image 20230602232604.png]]
+
+![[Pasted image 20230602232921.png]]
+
+
+
+### 3.1.5 What is the theoretical basis for the general line during transition period?
+
+![[Pasted image 20230602233021.png]]
+
+## 3.2 Path and historical experience of socialist transformation
+
+### 3.2.1 Three debates about agricultural socialist transformation
+
+
+
+### 3.2.2 Socialist transformation of the agricultural sector
+
+
+
+### 3.2.3 Socialist transformation of handicraft industry
+
+
+
+### 3.2.4 Socialist transformation of capitalist industrial commerce
+
+
+
+### 3.2.5 Historical experience of socialist transformation
+
+
+
+### 3.2.6 Problems in socialist transformation
+
+
+
+## 3.3 Establishment of socialist basic institutions in China and its great significance
+
+### 3.3.1 Establishment of socialist basic institutions in China
+
+
+### 3.3.2 Great significance of establishing socialist basic institutions
+
