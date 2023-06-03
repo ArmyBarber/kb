@@ -78,4 +78,33 @@ The theme of modern China:
 
 ### The general programme of new democratic revolution
 
-- 
+- Mao once pointed out that substituting certain capitalist development for foreign imperialist and domestic feudalist oppression is not only inevitable but a step forward
+	- Benefits bourgeoisie, but also conducive to proletariat
+
+
+
+## 2.3 Path and basic experience of new democratic revolution
+
+### 2.3.1 Gradual formation of new democratic path
+
+- Initially CPC focused on cities, neglected peasants
+- Mao remarked on revolutionary paths of western capitalist countries
+	- Not oppressed by others but themselves
+	- Task of prole parties to educate workers, build up strength, go through long period of legal struggle, oppose imperialist wars
+	- When time for insurrection comes, cities will be seized first, then countryside
+	- In China, path will be reverse (rural to cities)
+
+
+### 2.3.2 What is the basis for choosing new democratic revolution path?
+
+![[Pasted image 20230602211715.png]]
+
+### 2.3.3 Three magic weapons of new democratic revolution
+
+1. United front
+2. Armed struggle/ Guerrilla war
+3. Party building/ revolutionary solidarity
+
+"The three magic weapons not only significantly enlighten our revolutionary success but also shed light upon our personal success. I think people who want to succeed must first have an awareness of "united front" make more friends and fewer enemies handle all kinds of relationships properly and make good conditions for success. One also needs to have the awareness of "armed struggle". Be willing to take tough challenges and meet difficulties to create a solid capital for success. Finally, one also needs to be aware of "party building" that is to make up deficiencies bring out strong suits accumulate steadily and break forth vastly. Keep enriching oneself will create a strong subject for success"
+
+### 2.3.4 Significance of new democratic revolution theory
