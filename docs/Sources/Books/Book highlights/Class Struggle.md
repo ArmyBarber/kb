@@ -6,9 +6,9 @@ kindle-sync:
     Marxisms)
   author: Domenico Losurdo and Gregory Elliot
   asin: B01LWT8WL4
-  lastAnnotatedDate: '2022-08-29'
+  lastAnnotatedDate: '2023-05-31'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61bhUGAK0eL._SY160.jpg'
-  highlightsCount: 77
+  highlightsCount: 82
 ---
 # Class Struggle
 ## Metadata
@@ -20,6 +20,15 @@ kindle-sync:
 
 ## Highlights
 Does Nazi Germany’s attempt to reduce Slavs to the condition of black slaves in the service of the master race, and the epic resistance to this war of colonial subjugation and actual enslavement—the ‘great racial war’ undertaken by the Third Reich—mounted by entire peoples, have nothing to do with class struggle? — location: [183](kindle://book?action=open&asin=B01LWT8WL4&location=183) ^ref-17844
+
+---
+that the struggle for a ‘foreign policy’ supportive of oppressed nations was an integral part of ‘the general struggle for the emancipation of the working classes’. — location: [360](kindle://book?action=open&asin=B01LWT8WL4&location=360) ^ref-12561
+
+---
+Far from being of minor relevance from the standpoint of class struggle, the exploitation and oppression that obtain internationally are a precondition, at least methodologically, for understanding social conflict and class struggle at a national level. — location: [372](kindle://book?action=open&asin=B01LWT8WL4&location=372) ^ref-26173
+
+---
+defeat of this project provoked an immense wave of anti-colonial revolutions on a global scale. — location: [593](kindle://book?action=open&asin=B01LWT8WL4&location=593) ^ref-43864
 
 ---
 The sections and members of the exploiting class and oppressor nation most inclined to theoretical study and moral reflection are invited not to lose sight of the grave practical drawbacks and general human devastation created by the social system, of which they are nevertheless beneficiaries in immediate material terms. — location: [1573](kindle://book?action=open&asin=B01LWT8WL4&location=1573) ^ref-61375
@@ -111,10 +120,16 @@ ideological and political maturity and the politics of alliances have taken the 
 So political maturity allowing for alliances is on key thing, but shitty alliances (like feudalists against booj) are also decried. It has to be done intelligently
 
 ---
+What emerged in some sections of the communist movement was an unrealistic internationalism that tended to liquidate different national identities as mere prejudices. — location: [5152](kindle://book?action=open&asin=B01LWT8WL4&location=5152) ^ref-53823
+
+---
 idealism of practice—the view that, as a result of revolutionary class struggle, the material objectivity of different national interests would disappear. — location: [5349](kindle://book?action=open&asin=B01LWT8WL4&location=5349) ^ref-36862
 
 ---
 Just as it does not betoken the end of the state, so socialism does not entail either the disappearance of the market, or the fusion of the countries engaged in constructing a new social order into a community free of tensions and conflicts. — location: [5400](kindle://book?action=open&asin=B01LWT8WL4&location=5400) ^ref-34180
+
+---
+What cast a shadow of suspicion was the attitude adopted by the USSR along with the other great powers at Yalta, the ‘secret agreement dividing up spheres of influence among them, — location: [5405](kindle://book?action=open&asin=B01LWT8WL4&location=5405) ^ref-3284
 
 ---
 interests’. The influence of the national question had been decisive: ‘I don’t mean it was because of the ideological disputes; we no longer think that everything we said at that time was right. The basic problem was that the Chinese were not treated as equals and felt humiliated. However, we have never forgotten that in the period of our First Five-Year Plan the Soviet Union helped us lay an industrial foundation’. — location: [5407](kindle://book?action=open&asin=B01LWT8WL4&location=5407) ^ref-38010

@@ -241,6 +241,7 @@ The theme of modern China:
 
 ### 3.1.1 Why new democratic society was called a transitional society
 
+![[Pasted image 20230605122320.png]]
 
 ### 3.1.2 The changing attitude of the party on transition to socialism
 
@@ -293,10 +294,22 @@ Aspects of this line:
 
 ![[Pasted image 20230602233021.png]]
 
+>"The democratic revolution is the necessary preparation for the socialist revolution, and the socialist revolution is the inevitable sequel to the democratic revolution. The ultimate aim for which all communists strive is to bring about a socialist and communist society. A clear understanding of both the differences and the interconnections between the democratic and the socialist revolutions is indispensable to correct leadership in the Chinese revolution."[^5]
+
+> "The substance of the Party’s general line for the transition period is to make socialist ownership of means of production the only economic basis for our country and our society The reason for doing so is that only after we complete the transition from private ownership of means of production to socialist ownership can we rapidly accelerate the development of social productive forces and initiate a technological revolution In this way can we change the situation where the vast majority of our economy uses simple and backward agricultural instruments into the situation where we use various kinds of machinery and the most advanced machinery in order to produce all kinds of industrial and agricultural products on a large scale meet people's growing needs increase their living standards steadily enhance national defense powers resist imperialist invasion ultimately consolidate people's regime and prevent anti-revolutionaries from coming back"
+-Mao
+
+
 ## 3.2 Path and historical experience of socialist transformation
 
 ### 3.2.1 Three debates about agricultural socialist transformation
 
+- Consensus: after agrarian reform, agricultural sector should be transformed, embark on socialist path
+- Points of contention:
+	- When?
+	- How?
+	- At what speed? etc
+- 
 
 
 ### 3.2.2 Socialist transformation of the agricultural sector
@@ -330,3 +343,4 @@ Aspects of this line:
 [^2]: [THE ROLE OF THE CHINESE COMMUNIST PARTY IN THE NATIONAL WAR](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_10.htm)
 [^3]: [On the Party](https://www.marxists.org/reference/archive/liu-shaoqi/1945/on-party/ch02.htm)
 [^4]: [Lenin: 1899/articles: OUR PROGRAMME](https://www.marxists.org/archive/lenin/works/1899/articles/arg2op.htm)
+[^5]: [THE CHINESE REVOLUTION AND THE CHINESE COMMUNIST PARTY](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_23.htm)
