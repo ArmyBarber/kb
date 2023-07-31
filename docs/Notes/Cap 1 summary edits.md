@@ -1,3 +1,10 @@
+Taken from [An Extremely Condensed Summary of Capital](https://redsails.org/capital-v1-summary/)
+
+- Edited to put latex formulas in
+
+----
+
+
 > Leaning heavily on _Marx’s Inferno_ by William C. Roberts.
 
 ___
@@ -61,7 +68,7 @@ Call the difference **$M’ - M =$ surplus value**, or **$s$**. Thus **$M’ = c
 
 ___
 
-Is **surplus value** the same as **profit**? Technically **surplus value** (**s**) can be broken down into **profit**, rent, and interest, but for now Marx will gloss over rent and interest, so there’s no harm in thinking of **s** as the amount of **profit** too. However, the **_rate_ of profit** (what capitalists care about) is calculated very differently than the **_rate_ of surplus value** (what workers care about): the former is **$\dfrac{s}{c + v}$**, which will generally be much lower than the latter, **$\dfrac{s}{v}$**. If we mistakenly take the **_rate_ of profit** as the measure of exploitation, as capitalists would prefer, we’re low-balling it. If we do not attend to the difference between **c** and **v**, we may view the capitalist’s pursuit of profit as passive economizing (e.g. making sure no cotton is wasted, making sure no one slacks off) rather than the mortal struggle between worker and capitalist that it is. Capitalists are not indifferent between **c** and **v** when there is **labor** unrest.
+Is **surplus value** the same as **profit**? Technically **surplus value** (**$s$**) can be broken down into **profit**, rent, and interest, but for now Marx will gloss over rent and interest, so there’s no harm in thinking of **s** as the amount of **profit** too. However, the **_rate_ of profit** (what capitalists care about) is calculated very differently than the **_rate_ of surplus value** (what workers care about): the former is **$\dfrac{s}{c + v}$**, which will generally be much lower than the latter, **$\dfrac{s}{v}$**. If we mistakenly take the **_rate_ of profit** as the measure of exploitation, as capitalists would prefer, we’re low-balling it. If we do not attend to the difference between **c** and **v**, we may view the capitalist’s pursuit of profit as passive economizing (e.g. making sure no cotton is wasted, making sure no one slacks off) rather than the mortal struggle between worker and capitalist that it is. Capitalists are not indifferent between **c** and **v** when there is **labor** unrest.
 
 ___
 
@@ -76,7 +83,7 @@ Due to the demands of competition, capitalists seek to increase their **_rate_ o
 
 **Class struggle** by the workers over the length of the working day leads to the setting of legal limits on it as a necessary compromise, which forces the capitalist to seek profits through technological innovation. This is bad news for the worker: more automation means fewer workers are needed to produce the same output, and constant layoffs, buyouts and bankruptcies mean that not even the highly skilled can be assured of steady employment. Competition for the shrinking pool of good jobs becomes ever more fierce. The capitalist faces adverse consequences too: even as they increase their output by automating production, every other capitalist is scrambling to do the same, so the **value** of each commodity shrinks, since it comes to embody less and less **abstract labor**. At the same time, the **organic composition of capital**, or **$\dfrac{c}{v}$**, increases as “capital-intensive” production edges out other techniques. Since **s** can only come from hiring **labor**, which the capitalist does less and less, this means that the **_rate_ of profit**, **$\dfrac{s}{c + v}$**, will likely fall, putting a further squeeze on the capitalist, whose only (temporary) salvation lies in the fact that the growing ranks of the unemployed exert a continuous downward pressure on wages. Hence capitalism cannot ever abolish what Marx calls the **reserve army of labor**, a.k.a. structural unemployment.
 
-The **_rate_ of profit**, **$\dfrac{s}{c + v}$**, is equal to **$\dfrac{\dfrac{s}{v}}{\left (\dfrac{c}{v} + 1\right )}$**. Thus if the **_rate_ of surplus value**, **s / v**, were to grow faster or fall more slowly than the **organic composition of capital**, **c / v**, the **_rate_ of profit** would increase. Whether this has happened or could happen in the long run is disputed. Marx argues that it won’t in Volume Three.
+The **_rate_ of profit**, **$\dfrac{s}{c + v}$**, is equal to **$\dfrac{\dfrac{s}{v}}{\left (\dfrac{c}{v} + 1\right )}$**. Thus if the **_rate_ of surplus value**, **$\dfrac{s}{v}$**, were to grow faster or fall more slowly than the **organic composition of capital**, **$\dfrac{c}{v}$**, the **_rate_ of profit** would increase. Whether this has happened or could happen in the long run is disputed. Marx argues that it won’t in Volume Three.
 
 ___
 
