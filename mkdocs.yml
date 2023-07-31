@@ -57,6 +57,7 @@ plugins:
   - callouts 
   - mermaid2
   - tags
+  - mkdocs-backlinks
 
 extra_javascript:
   - javascripts/mathjax.js
