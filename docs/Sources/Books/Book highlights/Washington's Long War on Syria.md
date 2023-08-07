@@ -4,9 +4,9 @@ kindle-sync:
   title: Washington's Long War on Syria
   author: Stephen Gowans
   asin: B06XS1MM93
-  lastAnnotatedDate: '2022-09-10'
+  lastAnnotatedDate: '2023-08-07'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71UG1bR2qNL._SY160.jpg'
-  highlightsCount: 146
+  highlightsCount: 186
 ---
 # Washingtons Long War on Syria
 ## Metadata
@@ -300,10 +300,99 @@ Contrast the very real democratic outcomes in the Marxist and Arab socialist cou
 Washington’s assigning Syria to the company of countries in which it sought regime change, a full decade before the Arab Spring uprising, is evidence that the March 2011 disturbances, or more precisely, Damascus’s response to them, did not precipitate Washington’s decision to topple the Syrian government. — location: [1662](kindle://book?action=open&asin=B06XS1MM93&location=1662) ^ref-20022
 
 ---
+The first contestable view is that the demonstrations against the Assad government that erupted in the spring of 2011 were disconnected from the main force of opposition within Syria to the secular Arab nationalist state, namely Sunni political Islam. The evidence, however, shows that the demands of the protesters had an Islamist content. It reveals that jihadist groups at the fore of the insurrection had begun operations in early 2011, before the violent protests erupted, — location: [1691](kindle://book?action=open&asin=B06XS1MM93&location=1691) ^ref-4457
+
+---
 The second view, which is clearly untenable, is that the protests were non-violent. They were, on the contrary, violent from the beginning, a reality that was acknowledged by the U.S. government early on, but later obfuscated by U.S. state officials who preferred to speak of the violent eruptions as “largely” peaceful. — location: [1702](kindle://book?action=open&asin=B06XS1MM93&location=1702) ^ref-34218
 
 ---
 the reality that a minority that set fire to buildings and cars and clashed with police, eventually killing large numbers of them, were engaged in violence, and that the character of a protest movement containing even a minority of violent participants is still violent. — location: [1705](kindle://book?action=open&asin=B06XS1MM93&location=1705) ^ref-38956
+
+---
+The third contestable view is that the uprising had broad popular support, that the Assad government was widely reviled, and that Assad himself had lost legitimacy among Syrians. — location: [1707](kindle://book?action=open&asin=B06XS1MM93&location=1707) ^ref-23416
+
+---
+reports in the months immediately preceding the mid-March 2011 eruption of anti-government violence said the very opposite. These reports indicated that Assad was widely viewed by Syrians as a legitimate — location: [1709](kindle://book?action=open&asin=B06XS1MM93&location=1709) ^ref-56467
+
+---
+Washington had recycled parts of Kermit Roosevelt’s plan to topple the Ba’athist-Communist triumvirate that ruled in Damascus in 1956; that is, it enlisted the aid of Sunni Islamists to create internal uprisings in Syria, as Roosevelt had planned to do in the mid-1950s. Washington would portray the uprisings as popularly based, and declare that this demonstrated the president had lost legitimacy and must therefore step down. As such, Washington could justify its almost immediate overt support of the armed insurrectionists as an exercise in democracy promotion. — location: [1713](kindle://book?action=open&asin=B06XS1MM93&location=1713) ^ref-486
+
+---
+Rania Abouzeid attributed the failure of the protest organizers to draw significant support to the fact that most Syrians were not opposed to their government. Assad had a favorable reputation, especially among the two-thirds of the population under thirty, and his government’s policies were widely supported. “Even critics concede that Assad is popular and considered close to the country’s huge youth cohort, both emotionally, ideologically and, of course, chronologically,” — location: [1722](kindle://book?action=open&asin=B06XS1MM93&location=1722) ^ref-42701
+
+---
+on the eve of the signal Daraa events Syria was being remarked upon for its quietude. No one “expects mass uprisings in Syria,” — location: [1732](kindle://book?action=open&asin=B06XS1MM93&location=1732) ^ref-48636
+
+---
+Clearly, this wasn’t a peaceful demonstration, as it would be later depicted. Nor was it a mass uprising. Time reported that the demonstrators numbered in the hundreds, not thousands or tens of thousands. — location: [1752](kindle://book?action=open&asin=B06XS1MM93&location=1752) ^ref-53539
+
+---
+Why did the government make these concessions? Because that’s what the Daraa protesters demanded. — location: [1758](kindle://book?action=open&asin=B06XS1MM93&location=1758) ^ref-4882
+
+---
+To underscore the point that the protests lacked broad popular support, two weeks later, on April 22, The New York Times’ Anthony Shadid reported that “the protests, so far, seemed to fall short of the popular upheaval of revolutions in Egypt and Tunisia.” — location: [1782](kindle://book?action=open&asin=B06XS1MM93&location=1782) ^ref-28754
+
+---
+`”there were signs from the very start that armed groups were involved.” — location: [1835](kindle://book?action=open&asin=B06XS1MM93&location=1835) ^ref-38486
+
+---
+By September, Syrian authorities were reporting that they had lost more than 500 police officers and soldiers, killed by guerillas. — location: [1841](kindle://book?action=open&asin=B06XS1MM93&location=1841) ^ref-55126
+
+---
+One reason a violent uprising with a predominantly Islamist content led by armed jihadists against a popular government could be presented as a popular upheaval against an unpopular government was that “the opposition movements during 2011 had well-developed PR operations,” — location: [1850](kindle://book?action=open&asin=B06XS1MM93&location=1850) ^ref-17727
+
+---
+it strains belief that an over- reaction by security forces to a challenge to government authority in the Syrian town of Daraa could spark a major war, involving scores of states, and mobilizing jihadists from scores of countries. — location: [1874](kindle://book?action=open&asin=B06XS1MM93&location=1874) ^ref-7552
+
+---
+we would have to overlook the reality that the Assad government was popular and viewed as legitimate. — location: [1877](kindle://book?action=open&asin=B06XS1MM93&location=1877) ^ref-52942
+
+---
+Third, we would have to close our eyes to the fact that the U.S. government, with its British ally, had drawn up plans in 1957 to provoke a war in Syria by enlisting the Muslim Brotherhood to instigate internal uprisings. The Daraa riot and subsequent armed clashes with police and soldiers resembled the plan which regime change specialist Kermit Roosevelt had prepared. — location: [1889](kindle://book?action=open&asin=B06XS1MM93&location=1889) ^ref-11330
+
+---
+U.S. strategists had planned since 2003, and possibly as early as 2001, to force Assad and his secular Arab nationalist ideology from power, and was funding the Syrian opposition, including Muslim Brotherhood-linked groups, — location: [1893](kindle://book?action=open&asin=B06XS1MM93&location=1893) ^ref-17388
+
+---
+Washington had been driving toward the overthrow of the Assad government with the goal of de-Ba’athifying Syria. — location: [1895](kindle://book?action=open&asin=B06XS1MM93&location=1895) ^ref-34962
+
+---
+To be sure, Syria was, indeed, a police state. But all states are police states to one degree or another, a reality that Western chauvinism elides. Every state has a political policing function. — location: [1900](kindle://book?action=open&asin=B06XS1MM93&location=1900) ^ref-61356
+
+---
+The point of the propaganda is to misattribute the openness of a society to ideology rather that to the comparatively strong security environments these states enjoy, in order to score propaganda points. — location: [1910](kindle://book?action=open&asin=B06XS1MM93&location=1910) ^ref-28087
+
+---
+The United States, for example, is protected from the external threat of military invasion by two vast oceans, and by its formidable military. It is therefore in a position to maintain police state powers at a level far below those of many other countries that exist within very precarious security environments. — location: [1911](kindle://book?action=open&asin=B06XS1MM93&location=1911) ^ref-27286
+
+and yet it still has a massive prison population/police force
+
+---
+There is a rhetoric and a reality of police states. The reality is that every state is a police state; the rhetoric is that we acknowledge only the police states of our enemies, whose strong police state powers are often a reaction to the threats we create. — location: [1938](kindle://book?action=open&asin=B06XS1MM93&location=1938) ^ref-51746
+
+---
+the Syrian government’s use of force “can be explained, if not condoned, by the fact that it” believed it was “fighting for its life—not only against local opponents but also against an external conspiracy led by the United States (egged on by Israel) and including Saudi Arabia, Qatar, Britain and France.” — location: [1968](kindle://book?action=open&asin=B06XS1MM93&location=1968) ^ref-52684
+
+---
+How were Washington’s Arab allies reacting to upheavals in their own countries? The question is important for two reasons. First, the answer illuminates whether Damascus’s response to the violent uprising in Syria was excessive by the standards of its neighbors. Second, it indicates whether Washington had established a double standard by which it accepted the use of force by allies to put down violent dissent but established a higher, and impossible, standard, by which Damascus was to be judged. — location: [1976](kindle://book?action=open&asin=B06XS1MM93&location=1976) ^ref-311
+
+---
+Between itself and its allies, Saudi Arabia, Qatar and Turkey, Washington had armed and trained 50,000 insurgents. — location: [2009](kindle://book?action=open&asin=B06XS1MM93&location=2009) ^ref-5299
+
+---
+What there was, instead, was an insurrection, with a predominantly Islamist content, led by armed groups, affiliated with the Syrian Muslim Brotherhood, which was colluding with Washington. — location: [2032](kindle://book?action=open&asin=B06XS1MM93&location=2032) ^ref-22951
+
+---
+the Brothers had vowed an unending jihad against the secular government in Damascus and had been supported since 2005 by Washington. — location: [2036](kindle://book?action=open&asin=B06XS1MM93&location=2036) ^ref-61019
+
+---
+in this case, there is no evidence that the uprising was either popular or that the government was unpopular. The evidence, instead, appears to accord more congenially with the following scenario: The U.S. government enlisted the aid of political Islamists to prosecute a guerilla war against a government it was inimical to because it pursued an Arab nationalist agenda which was an ideological threat to U.S. domination of the oil-rich Arab world. Washington chose to ally with Sunni political Islam because it was the major opposition to Syria’s secular Arab nationalist government. Washington had a history of teaming up with mujahedeen to topple secular leftist governments. It had done so in Afghanistan, where it joined with Saudi Arabia and Pakistan—and infamously with Osama bin Laden—to fund, arm and organize a jihad against the “atheist” Soviet communists and their ‘infidel’ secular leftist allies who formed the Afghan government. CIA-backed jihadists would do the same in Syria to topple the “infidel” secular Arab nationalists who were led by the Alawite “heretic” Bashar al-Assad. — location: [2041](kindle://book?action=open&asin=B06XS1MM93&location=2041) ^ref-4968
+
+---
+if he regretted U.S. support to the mujahedeen in Afghanistan. Brzezinski replied, “What is more important in world history?...Some agitated Moslems or the liberation of Central Europe and the end of the cold war?”62 One suspects that Brzezinski’s successors might have had a similar attitude to Washington’s agitating some Muslims in Syria. — location: [2052](kindle://book?action=open&asin=B06XS1MM93&location=2052) ^ref-23019
+
+---
+When she served as U.S. Secretary of State, Madeleine Albright thought the U.S.-led sanctions-related deaths of a half a million Iraqi children were “worth it.” It was the price to be paid to eliminate the Arab nationalist threat to U.S. hegemony in the Middle East presented by Iraq’s Ba’athists. — location: [2056](kindle://book?action=open&asin=B06XS1MM93&location=2056) ^ref-6760
 
 ---
 The moderate rebel was a myth. The insurgency was continuous with an Islamist rebellion that had broken out the moment secular Arab nationalists came to power in Damascus in 1963. That rebellion, in turn, was continuous with a war which had raged between the two movements after 1945, when French colonial forces quit the country, and indigenous forces mounted their first bids for control of the state. — location: [2368](kindle://book?action=open&asin=B06XS1MM93&location=2368) ^ref-64395
@@ -349,6 +438,41 @@ Domenico Losurdo argues that the string of U.S. aggressions since the first Gulf
 
 ---
 Instead, echoes of Hitler were to be found in the arguments the United States and its allies used to undermine Syrian pan-Arabist ideology by representing it as an instrument of Alawite rule. — location: [2900](kindle://book?action=open&asin=B06XS1MM93&location=2900) ^ref-63963
+
+---
+Emblematic of the bearers of this creed was the philo-fascist Winston Churchill. An ardent defender of ruling class privilege and the British Empire’s subjection of the colonies to dictatorship, he sang the praises of Mussolini, and made clear that his sympathies leaned more strongly toward fascism’s defense of the class, racial and gender discrimination from which he and his class, race and sex benefitted, than toward the Bolshevik project of overcoming discrimination along the same lines. — location: [2927](kindle://book?action=open&asin=B06XS1MM93&location=2927) ^ref-19391
+
+---
+Churchill harrumphed. It was just that “a stronger race, a higher grade race, a more worldly wise race” had “come in and taken their place.” — location: [2943](kindle://book?action=open&asin=B06XS1MM93&location=2943) ^ref-31452
+
+---
+Nazism was simply an expression of European colonialism turned inward. — location: [2954](kindle://book?action=open&asin=B06XS1MM93&location=2954) ^ref-7399
+
+---
+In order to attack a doctrine of Marxist internationalism which had found favor among a large body of German proletarians, the future Fuhrer conflated working class ideology with Judaism, — location: [2969](kindle://book?action=open&asin=B06XS1MM93&location=2969) ^ref-40191
+
+---
+The idea was to discredit Marxism by depicting it as an ideology created by a religious minority to dupe the majority and gain ascendancy over it. This was, grosso modo, how the Western establishment defined the Syrian government. Secular Arab nationalism was conflated with the Alawite faith, a faith with which most Syrians could not identify since they did not adhere to it. — location: [2971](kindle://book?action=open&asin=B06XS1MM93&location=2971) ^ref-30530
+
+---
+This was the myth of a minority trying to dominate a majority by propagating an ideology of equality which denied the importance of the cleavage which set the minority apart. — location: [2978](kindle://book?action=open&asin=B06XS1MM93&location=2978) ^ref-50107
+
+---
+The over-representation of Jews in the Bolshevik leadership relative to their numbers in the Russian population did not mean that the first communist government was in reality a Jewish regime which exercised a Jewish tyranny over a Russian Orthodox Christian majority. — location: [2984](kindle://book?action=open&asin=B06XS1MM93&location=2984) ^ref-18298
+
+---
+the over-representation of Alawites in the security apparatus of the state had no immanent connection to religion, but was an imperative of political survival. — location: [2991](kindle://book?action=open&asin=B06XS1MM93&location=2991) ^ref-41429
+
+---
+according to Ba’ath ideology, it was necessary for Arabs to overcome their divisions, including differences of sect. This could hardly be accomplished by establishing a sectarian regime in Damascus guided by an Alawite agenda. — location: [2996](kindle://book?action=open&asin=B06XS1MM93&location=2996) ^ref-59973
+
+---
+imperialists opposed Ba’athist pan-Arabism for the same reason Hitler opposed Marxist internationalism: because its aim was to build a united front of oppressed people against their common enemy. — location: [2998](kindle://book?action=open&asin=B06XS1MM93&location=2998) ^ref-19779
+
+---
+Hitler’s goal in equating Marxism with Judaism was to make Marxism appear to the German worker as something alien, the creation of a tiny minority, not suitable to members of another—and altogether superior—nation. — location: [3017](kindle://book?action=open&asin=B06XS1MM93&location=3017) ^ref-56597
+
+See the same thing w/ how black struggle in US was conflated w/ Marxism (not that it did not have an influence) and more importantly conflated w/ foreign subversion. See it today now w/ everything being "Russian propaganda", even w/ Russia no longer being a Marxist state
 
 ---
 both Nazi propaganda and Western propaganda portrayed ideologies of emancipation as ideologies of racial and sectarian domination. — location: [3033](kindle://book?action=open&asin=B06XS1MM93&location=3033) ^ref-14934
