@@ -43,3 +43,10 @@ What is fascism but colonialism at the very heart of traditionally colonialist c
 
 "Theory becomes a material force as soon as it has gripped the masses."
 -[Marx, A Contribution to the Critique of Hegel's Philosophy of Right 1844](https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm)
+
+"The proletariat must accomplish the socialist revolution, by allying to itself the mass of the semi-proletarian elements of the population in order to crush by force the resistance of the bourgeoisie and to paralyze the instability of the peasantry and the petty bourgeoisie.""
+-J. V. Stalin. The Foundations of Leninism 
+
+"As a social process, overproduction always takes place in relation to a respective market, which through the power of its sponsoring capital disengages the resources of other markets that could potentially threaten its expansion. Overproducing capital arrests the expansion of competing capitals, especially in the developing world, by the most egregious means. To do so, it must regiment the labour process or cheapen and discipline labour engaged in production. To cheapen not only the wage paid but all the health, education, and other costs of labour reproduction over society’s lifecycle. To reduce the labor costs or necessary labor and indulge in measures that set the rate of labor’s reproduction, the wage bill and other costs must fall by reducing the average wage or the number of laborers."[^1]
+
+[^1]: [Full article: The Imperialist Question: A Sociological Approach](https://www.tandfonline.com/doi/full/10.1080/19436149.2023.2176943)

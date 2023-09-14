@@ -4,7 +4,7 @@ kindle-sync:
   title: 'Propaganda Blitz: How the Corporate Media Distort Reality'
   author: David Edwards and David Cromwell
   asin: B07HKP6XW7
-  lastAnnotatedDate: '2021-06-27'
+  lastAnnotatedDate: '2023-08-23'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61rcGeYEDNL._SY160.jpg'
   highlightsCount: 25
 ---
@@ -37,6 +37,9 @@ use of state-subsidised ‘news’, — location: [1062](kindle://book?action=op
 Julian Assange has been vindicated because the Swedish case against him was corrupt. The prosecutor, Marianne Ny, obstructed justice and should be prosecuted. Her obsession with Assange not only embarrassed her colleagues and the judiciary but exposed the Swedish state’s collusion with the United States in its crimes of war and ‘rendition’. — location: [1188](kindle://book?action=open&asin=B07HKP6XW7&location=1188) ^ref-14511
 
 ---
+Julian Assange has been vindicated because the Swedish case against him was corrupt. The prosecutor, Marianne Ny, obstructed justice and should be prosecuted. Her obsession with Assange not only embarrassed her colleagues and the judiciary but exposed the Swedish state’s collusion with the United States in its crimes of war and — location: [1188](kindle://book?action=open&asin=B07HKP6XW7&location=1188) ^ref-15768
+
+---
 The rehabilitation of Bush and Blair followed the deeper rehabilitation of the US brand under Obama. After the Iraq disaster – drenched in too much blood and too many lies for even the propaganda system to whitewash – Obama’s task was to reassert the myth of US benevolence. — location: [1220](kindle://book?action=open&asin=B07HKP6XW7&location=1220) ^ref-49789
 
 ---
@@ -53,6 +56,18 @@ what jumped out at me were the secret memos from the National Security Council. 
 
 ---
 More widely, Muammar Gaddafi’s 40-year record of appalling human rights abuses did not include large-scale attacks on Libyan civilians [our emphasis]. — location: [2054](kindle://book?action=open&asin=B07HKP6XW7&location=2054) ^ref-12036
+
+---
+Today humanity faces a stark choice: save the planet and ditch capitalism, or save capitalism and ditch the — location: [1248](kindle://book?action=open&asin=B07HKP6XW7&location=1248) ^ref-29761
+
+---
+up to 60 per cent of Israeli Jews support schemes to encourage or force Arabs to leave both the occupied territories and — location: [1611](kindle://book?action=open&asin=B07HKP6XW7&location=1611) ^ref-9749
+
+---
+what jumped out at me were the secret memos from the National Security Council. Explaining the U.S. interest in Southeast Asia, they spoke bluntly of the country’s motives as a quest for ‘tin, rubber, — location: [1834](kindle://book?action=open&asin=B07HKP6XW7&location=1834) ^ref-8979
+
+---
+More widely, Muammar Gaddafi’s 40-year record of appalling human rights abuses did not include large-scale attacks on Libyan civilians [our — location: [2054](kindle://book?action=open&asin=B07HKP6XW7&location=2054) ^ref-26106
 
 ---
 Libyan forces did kill hundreds as they regained control of cities. Collateral damage is inevitable in counter-insurgency. And strict laws of war may have been exceeded. But Khadafy’s acts were a far cry from Rwanda, Darfur, Congo, Bosnia, and other killing fields. Libya’s air force, prior to imposition of a UN-authorized no-fly zone, targeted rebel positions, not civilian concentrations. Despite ubiquitous cellphones equipped with cameras and video, there is no graphic evidence of deliberate massacre. — location: [2076](kindle://book?action=open&asin=B07HKP6XW7&location=2076) ^ref-27440
@@ -74,6 +89,9 @@ alliance between the top military brass in Washington, the arms manufacturers an
 
 ---
 In August 2016, Oxfam reported that in excess of 21 million people in Yemen, out of a total population of around 27 million, were in need of humanitarian aid, more than in any other country. — location: [2848](kindle://book?action=open&asin=B07HKP6XW7&location=2848) ^ref-45672
+
+---
+In August 2016, Oxfam reported that in excess of 21 million people in Yemen, out of a total population of around 27 million, were in need of humanitarian aid, more than in any other — location: [2848](kindle://book?action=open&asin=B07HKP6XW7&location=2848) ^ref-7171
 
 ---
 Iona Craig, formerly a Yemen-based correspondent for The Times, noted that ‘more than 58 hospitals now have been bombed by the coalition airstrikes, — location: [2853](kindle://book?action=open&asin=B07HKP6XW7&location=2853) ^ref-4852

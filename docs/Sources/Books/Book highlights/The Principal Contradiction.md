@@ -4,9 +4,9 @@ kindle-sync:
   title: The Principal Contradiction
   author: Torkil Lauesen
   asin: B08CSW7L52
-  lastAnnotatedDate: '2021-10-14'
+  lastAnnotatedDate: '2023-09-02'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71nhOBq5f5L._SY160.jpg'
-  highlightsCount: 30
+  highlightsCount: 33
 ---
 # The Principal Contradiction
 ## Metadata
@@ -35,6 +35,9 @@ In a society of growing contradictions, it is not the revolutionary process that
 
 ---
 dialectical materialism is indeed the science of revolution. — location: [311](kindle://book?action=open&asin=B08CSW7L52&location=311) ^ref-64183
+
+---
+Circumstances in China weren’t all that different. The revolutionaries needed to break the chains that hindered the development of the productive forces. — location: [591](kindle://book?action=open&asin=B08CSW7L52&location=591) ^ref-15387
 
 ---
 the fact that whenever a man was necessary he has always been found: Caesar, Augustus, Cromwell, etc. … — location: [603](kindle://book?action=open&asin=B08CSW7L52&location=603) ^ref-24004
@@ -67,7 +70,13 @@ at certain times and places in capitalism’s development other contradictions h
 Capitalism’s crisis opened a “window of opportunity” between 1965 and 1975. Capitalism was vulnerable and radical change seemed possible. But the revolutionary movement was too fragmented: the Soviet Union and China were divided by political and ideological quarrels, the national liberation struggles were not able to unite, the newly independent countries of the Third World could not break the monopolies and escape the world market, and the New Left never managed to mobilize broad popular forces against imperialism, — location: [1426](kindle://book?action=open&asin=B08CSW7L52&location=1426) ^ref-9223
 
 ---
+China also exemplifies one of the world’s most important contradictions today, namely, the contradiction between the USA’s attempt to maintain its hegemony and the rest of the world’s attempt to strengthen national independence. — location: [1511](kindle://book?action=open&asin=B08CSW7L52&location=1511) ^ref-55796
+
+---
 The contradiction between neoliberalism and nationalist governments has been the world’s principal contradiction since the financial crisis of 2007–08. — location: [1522](kindle://book?action=open&asin=B08CSW7L52&location=1522) ^ref-37788
+
+---
+83 China, for example, uses plenty of energy and raw materials, but most of what China produces is exported to the USA, Europe, and Japan. It is the consumers in these countries who bear much of the responsibility for China’s carbon emissions. — location: [1648](kindle://book?action=open&asin=B08CSW7L52&location=1648) ^ref-2596
 
 ---
 this kind of Keynesianism is catastrophe-driven: it is only once the catastrophe is in full swing that capital calls upon the state to intervene, by which point it is too late to avoid severe consequences. — location: [1695](kindle://book?action=open&asin=B08CSW7L52&location=1695) ^ref-1512

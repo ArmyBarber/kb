@@ -4,9 +4,9 @@ kindle-sync:
   title: The Foundations of Leninism
   author: J. V. Stalin
   asin: B0BF4NHM4N
-  lastAnnotatedDate: '2023-03-03'
+  lastAnnotatedDate: '2023-09-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81nEPnLfOvL._SY160.jpg'
-  highlightsCount: 25
+  highlightsCount: 32
 ---
 # The Foundations of Leninism
 ## Metadata
@@ -16,6 +16,12 @@ kindle-sync:
 * [Kindle link](kindle://book?action=open&asin=B0BF4NHM4N)
 
 ## Highlights
+Could Western imperialism resign itself to the loss of such a powerful support in the East and of such a rich reservoir of manpower and resources as old, tsarist, bourgeois Russia was without exerting all its strengths to wage a life-and-death struggle against the revolution in Russia, with the object of defending and preserving tsarsim? Of course not. — location: [116](kindle://book?action=open&asin=B0BF4NHM4N&location=116) ^ref-43192
+
+---
+The opportunists adapted themselves to the bourgeois because of their adaptive, petty-bourgeois nature; the “orthodox,” in their turn, adapted themselves to the opportunists in order to “preserve unity” with them, in the interests of “peace within the party.” Thus, the link between the policy of the bourgeois and the policy of the “orthodox” was closed, and, as a result, opportunism reigned supreme. — location: [174](kindle://book?action=open&asin=B0BF4NHM4N&location=174) ^ref-1695
+
+---
 how utterly false and utterly rotten are the political practices of these parties, which use pompous revolutionary slogans and resolutions to cloak their anti-revolutionary deeds. — location: [253](kindle://book?action=open&asin=B0BF4NHM4N&location=253) ^ref-1383
 
 ---
@@ -23,6 +29,9 @@ Is it not clear that revolutionary slogans and resolutions are not worth a far t
 
 ---
 “The attitude of a political party towards its own mistakes is one of the most important and surest ways of judging how earnest the party is and how it in practice fulfils its obligation towards its class and the toiling masses. Frankly admitting a mistake, ascertaining the reasons for it, analyzing the circumstances which gave rise to it, and thoroughly discussing the means of correcting it-that is the earmark of a serious party; that is the way it should perform its duties, that is the way it should educate and train the class, and then the masses” (see Vol. XXV, p. 200). — location: [273](kindle://book?action=open&asin=B0BF4NHM4N&location=273) ^ref-45576
+
+---
+it would be wrong to suppose that Lenin’s method is merely the restoration of the method of Marx. As a matter of fact, Lenin’s method is not only the restoration of, but also the concretization and further development of the critical and revolutionary method of Marx, of his materialist dialectics. — location: [288](kindle://book?action=open&asin=B0BF4NHM4N&location=288) ^ref-41894
 
 ---
 none other than Lenin undertook the very serious task of generalizing, on the basis of materialist philosophy, the most important achievements of science from the time of Engels down to his time, as well as of subjecting to comprehensive criticism the anti-materialistic trends among Marxists. — location: [331](kindle://book?action=open&asin=B0BF4NHM4N&location=331) ^ref-13005
@@ -46,6 +55,9 @@ Formerly the proletarian revolution was regarded exclusively as the result of th
 The front of capital will be pierced where the chain of imperialism is weakest, for the proletarian revolution is the result of the breaking of the chain of the world imperialist front at its weakest link; and it may turn out that the country which has started the revolution, which has made a breach in the front of capital, is less developed in a capitalist sense than other, more developed, countries, which have, however, remained within the framework of capitalism. — location: [427](kindle://book?action=open&asin=B0BF4NHM4N&location=427) ^ref-12645
 
 ---
+Where will the chain break in the near future? Again, where it is weakest. It is not precluded that the chain may break, say, in India. Why? Because that country has a young, militant, revolutionary proletariat, which has such an ally as the national liberation movement-an undoubtedly powerful and undoubtedly important ally. Because there the revolution is confronted by such a well-known foe as foreign imperialism, which has no moral credit and is deservedly hated by all the oppressed and exploited masses in India. — location: [436](kindle://book?action=open&asin=B0BF4NHM4N&location=436) ^ref-29245
+
+---
 by the exploitation of the first of the countries to be vanquished in the imperialist war combined with the exploitation of the whole of the East. — location: [445](kindle://book?action=open&asin=B0BF4NHM4N&location=445) ^ref-2861
 
 ---
@@ -56,6 +68,15 @@ making imperative the coalition of all revolutionary forces, from the proletaria
 
 ---
 it scarcely needs proof that the bourgeois-democratic revolution, in a more or less developed country, must under such circumstances verge upon the proletarian revolution, that the former must pass into the latter. — location: [464](kindle://book?action=open&asin=B0BF4NHM4N&location=464) ^ref-36767
+
+---
+The proletariat must accomplish the socialist revolution, by allying to itself the mass of the semi-proletarian elements of the population in order to crush by force the resistance of the bourgeoisie and to paralyze the instability of the peasantry and the petty bourgeoisie. — location: [470](kindle://book?action=open&asin=B0BF4NHM4N&location=470) ^ref-58971
+
+---
+Then, with the poor peasants, with the semi-proletarians, with all the exploited, against capitalism, including the rural rich, the kulaks, the profiteers, and to that extent the revolution becomes a socialist one. — location: [502](kindle://book?action=open&asin=B0BF4NHM4N&location=502) ^ref-2786
+
+---
+Lenin fought the adherents of “permanent” revolution, not over the question of uninterruptedness, for Lenin himself maintained the point of view of uninterrupted revolution, but because they underestimated the role of the peasantry, which is an enormous reserve of the proletariat, because they failed to understand the idea of the hegemony of the proletariat. — location: [518](kindle://book?action=open&asin=B0BF4NHM4N&location=518) ^ref-34676
 
 ---
 Only when the ‘lower classes’ do not want the old way, and when the ‘upper classes’ cannot carry on in the old way, only then can revolution triumph. — location: [563](kindle://book?action=open&asin=B0BF4NHM4N&location=563) ^ref-34035

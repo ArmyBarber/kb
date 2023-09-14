@@ -6,6 +6,10 @@
 
 [SCOTT RITTER: Merkel Reveals West’s Duplicity. War, it seems, was the only option Russia’s opponents had ever considered.](https://consortiumnews.com/2022/12/05/scott-ritter-merkel-reveals-wests-duplicity/)
 
+[Russia, Donbass and the reality of conflict in Ukraine | MR Online](https://mronline.org/2023/08/12/russia-donbass-and-the-reality-of-conflict-in-ukraine/)
+
+[The military situation in the Ukraine | MR Online](https://mronline.org/2022/04/10/the-military-situation-in-the-ukraine/)
+
 ---
 ## Nazi Influence
 [On the influence of neo-Nazism in Ukraine | MR Online](https://mronline.org/2023/01/04/on-the-influence-of-neo-nazism-in-ukraine/)
