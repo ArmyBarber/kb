@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Capital: Volume I (Das Kapital series Book 1)'
   author: 'Karl Marx, Ernest Mandel, and Ben Fowkes'
   asin: B002XHNMN0
-  lastAnnotatedDate: '2023-03-26'
+  lastAnnotatedDate: '2023-09-25'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81yr4fKfizL._SY160.jpg'
-  highlightsCount: 14
+  highlightsCount: 15
 ---
 # Capital
 ## Metadata
@@ -56,5 +56,9 @@ Joan Robinson does not understand that Volumes 1 and 3 of Capital are at differe
 
 ---
 A basic difference between the capitalist and pre-capitalist modes of production is that under capitalism capital not only appropriates surplus-value; it produces surplus-value. — location: [605](kindle://book?action=open&asin=B002XHNMN0&location=605) ^ref-36395
+
+---
+
+Capital is dead labour which, vampire-like, lives only by sucking living labour, and lives the more, the more labour it sucks. — location: [5050](kindle://book?action=open&asin=B002XHNMN0&location=5050) ^ref-45244
 
 ---
