@@ -3,3 +3,5 @@
 
 [Here's a key lesson from Lovell's book: "complexity in a proposition bet is only there to make it harder for you to figure out the odds."](https://twitter.com/doctorow/status/1521865588313894912?s=20&t=7khhBKJVbkbqihyeYfFqtg)
 	[[Medicare for all would save money and improve lives]]
+
+[[Dental insurance isn't a scam - but it's also not insurance]]

@@ -1,4 +1,6 @@
 [[In the Shadows of the American Century]]
+[[US Capitalist-Imperialism]]
+
 
 > ["Washington required a Saigon government responsive to its demands yet popular enough with its own peasantry to wage the war in the villages. These proved to be impossibly contradictory political requirements. In the end, the Americans settled for authoritarian military rule, which, acceptable as it proved in Washington, was disdained by the Vietnamese peasantry."](obsidian://open?vault=Obsidian%20Vault&file=Amazon_clippings%2FIn%20the%20Shadows%20of%20the%20American%20Century)
 

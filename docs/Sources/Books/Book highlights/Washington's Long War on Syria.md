@@ -4,9 +4,9 @@ kindle-sync:
   title: Washington's Long War on Syria
   author: Stephen Gowans
   asin: B06XS1MM93
-  lastAnnotatedDate: '2023-08-07'
+  lastAnnotatedDate: '2023-10-23'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71UG1bR2qNL._SY160.jpg'
-  highlightsCount: 186
+  highlightsCount: 187
 ---
 # Washingtons Long War on Syria
 ## Metadata
@@ -15,7 +15,7 @@ kindle-sync:
 * ISBN: 1771861088
 * Reference: https://www.amazon.com/dp/B06XS1MM93
 * [Kindle link](kindle://book?action=open&asin=B06XS1MM93)
-
+#Syria
 ## Highlights
 In place of pandering to Wall Street, Syria’s Arab nationalists sought to free Syria—and as an ultimate goal, the entire Arab world—from the political and economic agendas of foreign powers. — location: [99](kindle://book?action=open&asin=B06XS1MM93&location=99) ^ref-59464
 
@@ -393,6 +393,9 @@ if he regretted U.S. support to the mujahedeen in Afghanistan. Brzezinski replie
 
 ---
 When she served as U.S. Secretary of State, Madeleine Albright thought the U.S.-led sanctions-related deaths of a half a million Iraqi children were “worth it.” It was the price to be paid to eliminate the Arab nationalist threat to U.S. hegemony in the Middle East presented by Iraq’s Ba’athists. — location: [2056](kindle://book?action=open&asin=B06XS1MM93&location=2056) ^ref-6760
+
+---
+Robert Fisk summed up the phony war against Islamic State in Syria with a sarcastic quip: “And so we went to war against Isis in Syria—unless, of course, Isis was attacking Assad’s regime, in which case we did nothing at all.”67 — location: [2253](kindle://book?action=open&asin=B06XS1MM93&location=2253) ^ref-35145
 
 ---
 The moderate rebel was a myth. The insurgency was continuous with an Islamist rebellion that had broken out the moment secular Arab nationalists came to power in Damascus in 1963. That rebellion, in turn, was continuous with a war which had raged between the two movements after 1945, when French colonial forces quit the country, and indigenous forces mounted their first bids for control of the state. — location: [2368](kindle://book?action=open&asin=B06XS1MM93&location=2368) ^ref-64395

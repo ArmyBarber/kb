@@ -4,9 +4,9 @@ kindle-sync:
   title: The Foundations of Leninism
   author: J. V. Stalin
   asin: B0BF4NHM4N
-  lastAnnotatedDate: '2023-09-05'
+  lastAnnotatedDate: '2024-02-23'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81nEPnLfOvL._SY160.jpg'
-  highlightsCount: 32
+  highlightsCount: 35
 ---
 # The Foundations of Leninism
 ## Metadata
@@ -16,10 +16,19 @@ kindle-sync:
 * [Kindle link](kindle://book?action=open&asin=B0BF4NHM4N)
 
 ## Highlights
+It must not be forgotten that between Marx and Engels, on the one hand, and Lenin, on the other, there lies a whole period of undivided domination of the opportunism of the Second International, and the ruthless struggle against this opportunism could not but constitute one of the most important tasks of Leninism. — location: [59](kindle://book?action=open&asin=B0BF4NHM4N&location=59) ^ref-47289
+
+---
 Could Western imperialism resign itself to the loss of such a powerful support in the East and of such a rich reservoir of manpower and resources as old, tsarist, bourgeois Russia was without exerting all its strengths to wage a life-and-death struggle against the revolution in Russia, with the object of defending and preserving tsarsim? Of course not. — location: [116](kindle://book?action=open&asin=B0BF4NHM4N&location=116) ^ref-43192
 
 ---
 The opportunists adapted themselves to the bourgeois because of their adaptive, petty-bourgeois nature; the “orthodox,” in their turn, adapted themselves to the opportunists in order to “preserve unity” with them, in the interests of “peace within the party.” Thus, the link between the policy of the bourgeois and the policy of the “orthodox” was closed, and, as a result, opportunism reigned supreme. — location: [174](kindle://book?action=open&asin=B0BF4NHM4N&location=174) ^ref-1695
+
+---
+Second dogma: the proletariat cannot retain power if it lacks an adequate number of trained cultural and administrative cadres capable of organizing the administration of the country; these cadres must first be trained under capitalist conditions, and only then can power be taken. — location: [225](kindle://book?action=open&asin=B0BF4NHM4N&location=225) ^ref-46806
+
+---
+why not turn it this way: first take power, create favourable conditions for the development of the proletariat, and then proceed with seven-league strides to raise the cultural level of the labouring masses and train numerous cadres of leaders and administrators from among the workers? — location: [227](kindle://book?action=open&asin=B0BF4NHM4N&location=227) ^ref-54876
 
 ---
 how utterly false and utterly rotten are the political practices of these parties, which use pompous revolutionary slogans and resolutions to cloak their anti-revolutionary deeds. — location: [253](kindle://book?action=open&asin=B0BF4NHM4N&location=253) ^ref-1383

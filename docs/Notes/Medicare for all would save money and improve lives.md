@@ -1,6 +1,7 @@
 [[List of things that would make a huge impact in peoples lives yet are extremely unlikely to occur under current system]]
 
 #Things_that_would_greatly_improve_lives
+#insurance
 
 [The US health insurance industry is...healthy. "The S&P 500 managed healthcare sector gained 2.9% on Wednesday and another 6.4% on Thursday." That's more growth than online retailers like Amazon experienced during the pandemic.](https://twitter.com/doctorow/status/1251140577845895186?s=20&t=_OeYBzYS5oKXL3yygCaz8Q)
 	https://www.bloomberg.com/opinion/articles/2020-04-17/coronavirus-pandemic-is-fine-for-health-insurer-earnings

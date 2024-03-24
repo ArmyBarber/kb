@@ -14,7 +14,7 @@ kindle-sync:
 * ASIN: B09B18921H
 * Reference: https://www.amazon.com/dp/B09B18921H
 * [Kindle link](kindle://book?action=open&asin=B09B18921H)
-
+#Syria
 ## Highlights
 Multiple subsequent coups and countercoups were launched in Syria over the next 22 years, with three occurring in March, August and December 1949 followed by further coups in 1954, 1961, 1963 and 1970. The first was engineered by the U.S. Central Intelligence Agency (CIA) against the government of President Shukri Al Quwatli. — location: [175](kindle://book?action=open&asin=B09B18921H&location=175) ^ref-42975
 
