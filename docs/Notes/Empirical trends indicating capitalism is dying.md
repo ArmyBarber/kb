@@ -1,11 +1,13 @@
 ---
 created: 2024-03-27T06:12:13 (UTC -04:00)
 tags: [twitter,twitter thread,unroll,threadreader,threads]
-source: https://threadreaderapp.com/thread/1575240747456294912.html
-author: 
+source: https://twitter.com/Grossmanite/status/1575240747456294912
+author: https://twitter.com/Grossmanite
 ---
 
-# Thread by @Grossmanite 
+# Empirical trends indicating capitalism is dying
+
+Thread by @Grossmanite 
 
 [Source](https://x.com/Grossmanite/status/1575240747456294912?s=20)
 
@@ -65,11 +67,11 @@ When a company like Nestle switches to PF milk – motivated to cheapen its outl
 
 The average Energy Return on Investment (EROI) on fossil fuel has fallen from above 100:1 (a return of 100 units of energy for every 1 invested) before the 1930s to around 3–6:1 in 2019.
 
-[![](https://www.sciencedaily.com/images/scidaily-icon.png)](https://www.sciencedaily.com/releases/2019/07/190711114846.htm)
+[Fossil fuels increasingly offer a poor return on energy investment](https://www.sciencedaily.com/releases/2019/07/190711114846.htm)
 
 Indeed, in April 2020 the price of US oil fell below zero for the first time ever. The global fossil fuel industry is already highly dependent on public subsidies ($16bn a day according to the IMF) and artificial scarcity that raises prices by 70-80%.
 
-[![](https://threadreaderapp.com/images/sticky-note-regular.png)](https://www.theguardian.com/environment/2022/jul/21/revealed-oil-sectors-staggering-profits-last-50-years)
+[Revealed: oil sector’s ‘staggering’ $3bn-a-day profits for last 50 years](https://www.theguardian.com/environment/2022/jul/21/revealed-oil-sectors-staggering-profits-last-50-years)
 
 The value of Saudi Arabia’s oil infrastructure is expected to fall from $2bn to (minus) –$800bn later this decade.
 
