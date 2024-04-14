@@ -1,7 +1,7 @@
 
 [[China in Africa]]
 
-[[Is China Socialist]]
+[[kb/docs/Sources/Articles/Is China Socialist]]
 
 [[China Wave, The]]
 
@@ -21,5 +21,5 @@
 
 [[Excerpts on PRC founding and challenges]]
 
-[[Is China Socialist]]
+[[kb/docs/Sources/Articles/Is China Socialist]]
 
