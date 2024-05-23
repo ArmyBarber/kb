@@ -7,6 +7,7 @@ Booj already do this, such as with their [[billionaires using whatsapp to call f
 
 Need to look into how original soviets (as actual councils) were organized to the level to lead to effective action
 
+Whereas previously on-site workers could seize/lock down a facility during a strike, what would be the remote equivalent? Would need some coordination between HR/IT most likely
 
 
 [^1]: https://redsails.org/two-discoveries/
