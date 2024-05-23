@@ -6,9 +6,9 @@ kindle-sync:
     of Desire)
   author: David E. Stannard
   asin: B004TFXREI
-  lastAnnotatedDate: '2023-04-28'
+  lastAnnotatedDate: '2024-01-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81LSzi5s-iL._SY160.jpg'
-  highlightsCount: 25
+  highlightsCount: 28
 ---
 # American Holocaust
 ## Metadata
@@ -19,6 +19,15 @@ kindle-sync:
 * [Kindle link](kindle://book?action=open&asin=B004TFXREI)
 
 ## Highlights
+The destruction of the Indians of the Americas was, far and away, the most massive act of genocide in the history of the world. — location: [61](kindle://book?action=open&asin=B004TFXREI&location=61) ^ref-45815
+
+---
+However, by focusing almost entirely on disease, by displacing responsibility for the mass killing onto an army of invading microbes, contemporary authors increasingly have created the impression that the eradication of those tens of millions of people was inadvertent—a sad, but both inevitable and “unintended consequence” of human migration and progress. — location: [101](kindle://book?action=open&asin=B004TFXREI&location=101) ^ref-29277
+
+---
+In fact, however, the near-total destruction of the Western Hemisphere’s native people was neither inadvertent nor inevitable. — location: [107](kindle://book?action=open&asin=B004TFXREI&location=107) ^ref-61994
+
+---
 Moreover, the important question for the future in this case is not “can it happen again?” Rather, it is “can it be stopped?” For the genocide in the Americas, and in other places where the world’s indigenous peoples survive, has never really ceased. — location: [124](kindle://book?action=open&asin=B004TFXREI&location=124) ^ref-56925
 
 ---

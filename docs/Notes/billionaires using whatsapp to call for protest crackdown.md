@@ -1,0 +1,2 @@
+
+[Business titans privately urged NYC mayor to use police on Columbia protesters, chats show - The Washington Post](https://www.washingtonpost.com/nation/2024/05/16/business-leaders-chat-group-eric-adams-columbia-protesters/)
