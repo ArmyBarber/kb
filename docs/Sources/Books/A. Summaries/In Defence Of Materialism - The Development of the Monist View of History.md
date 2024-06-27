@@ -36,7 +36,11 @@
 
 
 
+## Chapter IV Idealist German Philosophy
 
+
+
+## Chapter V Modern Materialism
 
 
 
