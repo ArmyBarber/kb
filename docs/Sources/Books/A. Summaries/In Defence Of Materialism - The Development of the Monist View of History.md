@@ -3,7 +3,9 @@
 ## Metadata
 * Author: [G.V. Plekhanov](https://www.marxists.org/archive/plekhanov/index.htm)
 * Reference: <https://www.marxists.org/archive/plekhanov/1895/monist/index.htm>
-* [[Plekhanov Development of the Monist View of History.epub|E-book (epub, compiled from marxists.org)]]
+*  Source:
+	* [[Plekhanov Development of the Monist View of History.epub|E-book (epub, compiled from marxists.org)]]
+	* [[In Defense of Materialism_ The - G. V. Plekhanov.epub|Alternate epub (more modified/edited)]]
 * [[monist-view.pdf|pdf]]
 --------
 
@@ -45,7 +47,7 @@
 
 ___
 
-# Highlights
+## Highlights
 
 ## Chapter I. French Materialism of the Eighteenth Century
 
