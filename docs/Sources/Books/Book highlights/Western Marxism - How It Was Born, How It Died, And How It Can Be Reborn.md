@@ -7,7 +7,7 @@ tags: []
 ## Metadata
 * Title: 'Western Marxism: How It Was Born, How It Died, And How It Can Be Reborn'
 * Author: Domenico Losurdo
-* Source: [[Western Marxism - How It Was Born, How It Died, And How It Can Be Reborn|epub]]
+* Source: [[Western Marxism_ How It Was Bor - Domenico Losurdo.epub|epub]]
 ---
 ## II. Socialism vs. capitalism or anticolonialism vs. colonialism?
 

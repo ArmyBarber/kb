@@ -21,6 +21,17 @@
 
 ## Chapter II French Historians of the Restoration
 
+  - View that history is the result of struggle of various social strata (Vice) not unique
+	  - Thierry: represents history of English revs as struggle of bourgeoisie against aristocracy
+	  - Mignet: regards events of French Rev from view of "needs" of various social classes
+  - "If Augustin Thierry, Guizot or Mignet had been asked, do the manners of a people create its constitution, or, on the contrary, does its constitution create its manners, each of them would have replied that, however great and however unquestionable is the interaction of the manners of a people and its constitution, in the last analysis, both owe their existence to a third factor, lying deeper – “*the civil condition of men, their property relations*”."
+  - But what is the origin of property relations?
+	  - French historians at time of Restoration likely would have tried to resort to "human nature"
+  - Ultimately, French historians of Restoration failed to overcome contradiction of environment creating man/man creating environment
+	  - it only took a new form with them
+
+## Chapter III The Utopian Socialists
+
 
 
 
