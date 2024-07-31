@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Immovable Object: North Korea''s 70 Years At War with American Power'
   author: A. B. Abrams
   asin: B08KFNQW7P
-  lastAnnotatedDate: '2023-10-16'
+  lastAnnotatedDate: '2024-07-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71waH-IAQLL._SY160.jpg'
-  highlightsCount: 7
+  highlightsCount: 9
 ---
 # Immovable Object
 ## Metadata
@@ -32,6 +32,12 @@ even after their relaxation following major concessions by Tehran on its nuclear
 
 ---
 nuclear program was not the cause for Iran’s targeting, but rather its existence as a non-Westphilian state which was not in compliance with the designs of the Western-led order. — location: [15475](kindle://book?action=open&asin=B08KFNQW7P&location=15475) ^ref-919
+
+---
+In North Korea the development of a nuclear deterrent has been directly tied to economic development under the Byungjin policy—which prioritises the two programs in parallel, implicitly at the expense of conventional military spending. — location: [15503](kindle://book?action=open&asin=B08KFNQW7P&location=15503) ^ref-29091
+
+---
+The DPRK’s ability to increasingly focus on improving its civilian economy from the early 2010s has thus directly resulted from the country’s development of a nuclear deterrent. — location: [15506](kindle://book?action=open&asin=B08KFNQW7P&location=15506) ^ref-49524
 
 ---
 Hispanic American man, Adolfo Martinez, who was sentenced to 16 years in prison in the state of Ohio in December 2019 for tearing down an LGBT flag outside a church and destroying it. Unlike Warmbier, he was not a foreign citizen and did not enter a restricted area to access the flag. — location: [16085](kindle://book?action=open&asin=B08KFNQW7P&location=16085) ^ref-32520
