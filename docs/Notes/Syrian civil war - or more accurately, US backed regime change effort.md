@@ -1,6 +1,8 @@
 #Syria
 [[Support for the Syrian regime]]
 
+[[Syrian Privatization post regime change]]
+
 [[World War in Syria A Global Conflict Waged on Middle Eastern Battlefields]]
 
 [[Washington's Long War on Syria]]
