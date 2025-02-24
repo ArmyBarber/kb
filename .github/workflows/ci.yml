@@ -14,7 +14,7 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs==1.1.2  # Added 2025 0223
       #- run: pip install mkdocs-backlinks-section-plugin # Added 2025 0223
-      - run: pip install mkdocs-publisher  # Added 2023 0223
+      #- run: pip install mkdocs-publisher  # Added 2023 0223
       - run: pip install mkdocs-material
       - run: pip install mkdocs-material-extensions
       - run: pip install pymdown-extensions
@@ -22,6 +22,6 @@ jobs:
       - run: pip install mkdocs-mermaid2-plugin
       - run: pip install mkdocs-callouts
       #-run: pip install markdown-callouts
-      #- run: pip install mkdocs-backlinks  # Removed 2025 0223
+      - run: pip install mkdocs-backlinks  # Removed 2025 0223
       - run: mkdocs gh-deploy --force
 
