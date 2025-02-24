@@ -1,4 +1,4 @@
-#Syria
+
 
 # Overall thoughts
 
