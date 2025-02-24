@@ -58,7 +58,7 @@ plugins:
   - callouts 
   - mermaid2
   - tags
-  - pub-minifier
+  #- pub-minifier
   #- pub-obsidian  # Added 2025 0223
   #- backlinks_section # Added 2025 0223
   - mkdocs-backlinks # Removed 2025 0223
