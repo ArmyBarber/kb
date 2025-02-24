@@ -27,7 +27,7 @@ markdown_extensions:
   - footnotes
   - tables
   - nl2br
-  - callouts # Added 2025 0223
+  #- callouts # Added 2025 0223
   - admonition
   - attr_list
   - pymdownx.arithmatex:

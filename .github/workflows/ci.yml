@@ -21,6 +21,7 @@ jobs:
       - run: pip install mkdocs-roamlinks-plugin
       - run: pip install mkdocs-mermaid2-plugin
       - run: pip install mkdocs-callouts
+      #-run: pip install markdown-callouts
       #- run: pip install mkdocs-backlinks  # Removed 2025 0223
       - run: mkdocs gh-deploy --force
 
