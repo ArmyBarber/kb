@@ -59,6 +59,7 @@ plugins:
   - mermaid2
   - tags
   - pub-minifier
+  - mkdocs-video
   #- pub-obsidian  # Added 2025 0223
   # Added 2025 0223
   - backlinks_section:

@@ -1,5 +1,18 @@
 [Source](https://twitter.com/bidetmarxman/status/1776146313064624542)
 
+Video Try:
+
+<video src="/kb/test_video2.mp4" width="320" height="240" controls></video>
+
+Try 2
+<video src="kb/test_video2.mp4" width="320" height="240" controls></video>
+
+iframe
+
+<iframe src="kb/test_video2.mp4" width="640" height="360" allowfullscreen></iframe>
+
+# Article
+
 Yellen is once again traveling to Beijing, this time to try to get China to curb “overproduction”.  
   
 What's the real goal? 🧵![[Pasted image 20240414182001.png]]
@@ -37,6 +50,33 @@ In response, the US is crying out “slave labor!” in unison across virtually 
 In reality, China’s commodities aren’t cheap because of a surplus of labor, but because of a ‘lack’ of it!  
   
 As anyone with experience manufacturing in China during the past two decades can attest, plummeting commodity prices are due to a rapidly surging level of automation.  
+
+
+![type:video](./docs/Sources/source_file_folder/2024-04-05 bidetmarxman/2024-04-05_bidetmarxman_1776146483915481471_6YFyBd6eh2Iw2mZK.mp4)
+
+[[test_video.mp4]]
+
+![[test_video.mp4]]
+
+![[test_video2.mp4]]
+
+[[test_video2.mp4|another embed try]]
+
+Type video try
+
+![type:video](./kb/test_video2.mp4)
+
+Another
+![type:video](./test_video2.mp4)
+
+![type:video](./kb/docs/Sources/source_file_folder/2024-04-05 bidetmarxman/2024-04-05_bidetmarxman_1776146483915481471_6YFyBd6eh2Iw2mZK.mp4)
+
+Regular Embed
+![[test_video2.mp4]]
+
+Original Links
+
+![[2024-04-05_bidetmarxman_1776146483915481471_ZNPnKgb2PcxuWQI9.mp4]]
   
  ![[2024-04-05_bidetmarxman_1776146483915481471_6YFyBd6eh2Iw2mZK.mp4]]
  ![[2024-04-05_bidetmarxman_1776146483915481471_ZNPnKgb2PcxuWQI9.mp4]]
@@ -44,6 +84,8 @@ As anyone with experience manufacturing in China during the past two decades can
 ![[2024-04-05_bidetmarxman_1776146483915481471_8inUrb4SNO7fOtv2.mp4]]
 
 ![[2024-04-05_bidetmarxman_1776146483915481471_dsjuWPIwzgzL_a8U.mp4]]
+
+![type:video](./test_video2.mp4)
   
 This increasing automation leads to a decrease in the embodied labor within each commodity.  
   
