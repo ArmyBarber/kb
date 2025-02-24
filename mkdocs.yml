@@ -27,6 +27,7 @@ markdown_extensions:
   - footnotes
   - tables
   - nl2br
+  - callouts # Added 2025 0223
   - admonition
   - attr_list
   - pymdownx.arithmatex:
@@ -57,9 +58,10 @@ plugins:
   - callouts 
   - mermaid2
   - tags
-  - backlinks_section # Added 2023 0223
-  - pub-obsidian  # Added 2023 0223
-  #- mkdocs-backlinks # Removed 2023 0223
+  - pub-minifier
+  - pub-obsidian  # Added 2025 0223
+  #- backlinks_section # Added 2025 0223
+  #- mkdocs-backlinks # Removed 2025 0223
 
 extra_javascript:
   - javascripts/mathjax.js
