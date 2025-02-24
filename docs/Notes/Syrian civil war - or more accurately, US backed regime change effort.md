@@ -1,12 +1,14 @@
 
+# Syrian civil war - or more accurately, US backed regime change effort
 
-# Overall thoughts
+
+## Overall thoughts
 
 The regime-change effort that took place in Syria is tragically misunderstood in mainstream narratives. This misunderstanding (perhaps not the best word since it is deliberately misrepresented) hampers anti-imperialist efforts in the Global North and effectively aids imperialism:
 >The Palestine solidarity movement in the Global North is for a variety of reasons not in a position to contribute materially to the military capabilities of the national liberation forces in West Asia. They are, at the time being, only capable of obstructing the maneuvers of the imperialist states under which they reside. For that reason, consciousness-raising and agitation are of utmost importance. By offering celebratory gestures at the overthrow of the Syrian government, solidarity organisations help to shape a consciousness either ignorant of or outright enthusiastic about the long-term efforts of imperialist states to destroy the sovereignty of a Global South country, in turn weakening the sovereignty of other countries in the Global South and hampering the ability of those forces that _are_ capable of providing material support to do just that. The objective result is a solidarity movement at risk of serving as a force multiplier for imperialism’s war objectives.[^1]
 
 
-# Articles/Sources
+## Articles/Sources
 
 **Key themes**
 
