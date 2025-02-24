@@ -13,7 +13,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs==1.1.2  # Added 2025 0223
-      #- run: pip install mkdocs-backlinks-section-plugin # Added 2025 0223
+      - run: pip install mkdocs-backlinks-section-plugin # Added 2025 0223
       - run: pip install mkdocs-publisher  # Added 2023 0223
       - run: pip install mkdocs-material
       - run: pip install mkdocs-material-extensions

@@ -59,8 +59,11 @@ plugins:
   - mermaid2
   - tags
   - pub-minifier
-  - pub-obsidian  # Added 2025 0223
-  #- backlinks_section # Added 2025 0223
+  #- pub-obsidian  # Added 2025 0223
+  # Added 2025 0223
+  - backlinks_section:
+      add_to_toc: false
+      hide_if_empty: true
   #- mkdocs-backlinks # Removed 2025 0223
 
 extra_javascript:
