@@ -8,7 +8,7 @@ https://x.com/RodericDay/status/2041899287265587646
 
 This is basically Jesus's pitch, right? The West is almost defined by Christianity, and Christianity is defined by the idea of a perfect chosen child that wins decisively despite embracing every unjust handicap foisted upon him. By now secularized via Luke, Harry, etc.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The problem with so many western anti-war activists is that they only stand with the oppressed as abstract victims who can only starve, suffer, and die - but they never say a word of solidarity with the oppressed who fight.</p>&mdash; Victims of Capitalism Memorial Foundation (@karaokecomputer) <a href="https://twitter.com/karaokecomputer/status/2041646388090687719?ref_src=twsrc%5Etfw">April 7, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The problem with so many western anti-war activists is that they only stand with the oppressed as abstract victims who can only starve, suffer, and die - but they never say a word of solidarity with the oppressed who fight.</p>&mdash; Victims of Capitalism Memorial Foundation (@karaokecomputer) <a href="https://twitter.com/karaokecomputer/status/2041646388090687719?ref_src=twsrc%5Etfw">April 7, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
